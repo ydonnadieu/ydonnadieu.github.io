@@ -19,8 +19,8 @@ nav: true
 </ul>
 
 <h6>[2013–2016] Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.</h6> 
-<b>Project [3 years]</b>: <i>Numerical modeling for increased understanding of Ordovician climate.</i> Supervisors: Yannick DONNADIEU (LSCE) and Guillaume LE HIR (IPGP).
 <ul>
+<li><b>Project [3 years]</b>: <i>Numerical modeling for increased understanding of Ordovician climate.</i> Supervisors: Yannick DONNADIEU (LSCE) and Guillaume LE HIR (IPGP).</li>
 <li><b>Award</b>: Van Straelen Prize from the French Geological Society (SGF).</li>
 <li><b>Award</b>: André Prud’homme Prize from the Meteo and Climate Association.</li>
 </ul>
