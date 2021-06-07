@@ -8,6 +8,8 @@ nav: true
 
 <h3>International Publications</h3>
 
+<p style="font-size:18px">
+
 [18] Zacaï, A., Monnet, C.,  Pohl, A., Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T.: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances, eabd6709.
 
 [17] Frau, C., Wimbledon, W.A.P., Ifrim, C., Bulot, L.G., Pohl, A.: Berriasian ammonites of supposed Tethyan origin from the type ‘Ryazanian’, Russia: a systematic re-interpretation. Paleoworld, in press.
@@ -43,3 +45,5 @@ nav: true
 [2] Pohl, A., Donnadieu, Y., Le Hir, G., Buoncristiani, J.F., Vennin, E., 2014. Effect of the Ordovician paleogeography on the (in)stability of the climate. Climate of the Past 10, 2053–2066. doi:10.5194/cp-10-2053-2014.
 
 [1] Godon, C., Mugnier, J.-L., Fallourd, R., Paquette, J.-L., Pohl, A., Buoncristiani, J.-F., 2013. The Bossons glacier protects Europe’s summit from erosion. Earth and Planetary Science Letters 375, 135–147. doi:10.1016/j.epsl.2013.05.018.
+
+</p>
