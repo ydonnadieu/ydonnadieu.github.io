@@ -6,9 +6,7 @@ description: Updated list of written publications
 nav: true
 ---
 
-<h3>International Publications</h3>
-
-<p style="font-size:18px">
+<h2>International Publications</h2>
 
 [18] Zacaï, A., Monnet, C.,  Pohl, A., Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T.: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances, eabd6709.
 
@@ -46,4 +44,10 @@ nav: true
 
 [1] Godon, C., Mugnier, J.-L., Fallourd, R., Paquette, J.-L., Pohl, A., Buoncristiani, J.-F., 2013. The Bossons glacier protects Europe’s summit from erosion. Earth and Planetary Science Letters 375, 135–147. doi:10.1016/j.epsl.2013.05.018.
 
-</p>
+<h2>Book Chapters</h2>
+
+[1] Goddéris Y., Donnadieu Y., Pohl A., 2021. The Phanerozoic Climate. In: Ramstein G., Landais A., Bouttes N., Sepulchre P., Govin A. (eds) Paleoclimatology. Frontiers in Earth Sciences. Springer, pp. 359–383.
+
+<h2>Popularization</h2>
+
+[1] Pohl, A., Donnadieu, Y., Le Hir, G. La modélisation peut-elle aider à comprendre le climat d’il y a 450 millions d’années? La Météorologie 105, 29–37. PDF.
