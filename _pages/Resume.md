@@ -8,17 +8,17 @@ nav: true
 
 <h2>Research Experience</h2>
 
-<h5>[2019–2021] Marie Curie postdoctoral researcher, paleoclimate modeling, University of California Riverside, CA, USA.</h5> 
+<h6>[2019–2021] Marie Curie postdoctoral researcher, paleoclimate modeling, University of California Riverside, CA, USA.</h6> 
 <ul>
 <li><b>Project [2 years]</b>: <i>BioSIGNAL: Biological pump sensitivity and climate change – Interrogating past environmental perturbations.</i> Modeling changes in deep-time marine planktonic communities and their impact on ocean biogeochemistry, with special focus on ocean oxygenation / anoxia.</li>
 </ul>
 
-<h5>[2017–2019] Postdoctoral researcher, paleoclimate modeling, Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE), Aix en Provence, France. </h5> 
+<h6>[2017–2019] Postdoctoral researcher, paleoclimate modeling, Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE), Aix en Provence, France. </h6> 
 <ul>
 <li><b>Project [2 years]</b>: <i>Investigating and quantifying the impact of the paleogeographical changes on the potential for reef-carbonate development throughout the Cretaceous.</i> </li>
 </ul>
 
-<h5>[2013–2016] Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.</h5> 
+<h6>[2013–2016] Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.</h6> 
 <b>Project [3 years]</b>: <i>Numerical modeling for increased understanding of Ordovician climate.</i> Supervisors: Yannick DONNADIEU (LSCE) and Guillaume LE HIR (IPGP).
 <ul>
 <li><b>Award</b>: Van Straelen Prize from the French Geological Society (SGF).</li>
