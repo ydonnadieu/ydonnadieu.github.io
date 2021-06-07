@@ -6,7 +6,7 @@ description: Updated list of written publications
 nav: true
 ---
 
-Papers
+<h3>International Publications</h3>
 
 [18] Zacaï, A., Monnet, C.,  Pohl, A., Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T.: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances, eabd6709.
 
