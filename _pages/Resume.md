@@ -6,7 +6,7 @@ description: CV
 nav: true
 ---
 
-<h2>Research Experience</h2>
+<h2>Research Positions</h2>
 
 <h6>[2019–2021] Marie Curie postdoctoral researcher, paleoclimate modeling, University of California Riverside, CA, USA.</h6> 
 <ul>
@@ -43,7 +43,7 @@ nav: true
 <li><b>Mourad Haggui, M.Sc. 2nd year</b> (Aix-Marseille University), “Coupling paleontological database and paleoceanographical modeling to investigate the paleobiogeography of Cretaceous reef carbonates”. Co-adviser. Principal advisor: J. Borgomano. Duration: 5 months.</li>
 </ul>
 
-<h2>Reviewer for</h2>
+<h2>Review activity</h2>
 
 <ul>
 <li>Paleoceanography</li>
