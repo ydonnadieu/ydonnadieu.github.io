@@ -16,19 +16,25 @@ nav: true
 
 <h6>[2013–2016] Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.</h6> 
 <b>Project [3 years]</b>: <i>Numerical modeling for increased understanding of Ordovician climate.</i> Supervisors: Yannick DONNADIEU (LSCE) and Guillaume LE HIR (IPGP).
-<b>Award</b>: Van Straelen Prize from the French Geological Society (SGF).
-<b>Award</b>: André Prud’homme Prize from the Meteo and Climate Association.
+<ul>
+<li><b>Award</b>: Van Straelen Prize from the French Geological Society (SGF).</li>
+<li><b>Award</b>: André Prud’homme Prize from the Meteo and Climate Association.</li>
+</ul>
 
 <h2>Research Programs</h2>
 
-<b>[2019] Marie Curie Global Fellowship (European project)</b>: “Biological pump sensitivity and climate change: interrogating past environmental perturbations (BioSIGNAL)“ [PI].
-<b>[2015] French National Programm (INSU-CNRS)</b>: “Response of global marine biodiversity to a major climate change: modeling the Ordovician glaciation (445 Ma) with the MITgcm and its marine ecology model Darwin.“ [partner, significantly contributed to the design and writting of the project] (PI: Y Donnadieu).
-<b>[2014] French National Programm (INSU-CNRS)</b>: “Ordovician microfossils and environment : did the Early Ordovician onset of cooling of the Early Palaeozoic Icehouse trigger the most important rise in biodiversity in the history of life on Earth?“ [partner] (PI: TRA Vandenbroucke).
+<ul>
+<li><b>[2019] Marie Curie Global Fellowship (European project)</b>: “Biological pump sensitivity and climate change: interrogating past environmental perturbations (BioSIGNAL)“ [PI].</li>
+<li><b>[2015] French National Programm (INSU-CNRS)</b>: “Response of global marine biodiversity to a major climate change: modeling the Ordovician glaciation (445 Ma) with the MITgcm and its marine ecology model Darwin.“ [partner, significantly contributed to the design and writting of the project] (PI: Y Donnadieu).</li>
+<li><b>[2014] French National Programm (INSU-CNRS)</b>: “Ordovician microfossils and environment : did the Early Ordovician onset of cooling of the Early Palaeozoic Icehouse trigger the most important rise in biodiversity in the history of life on Earth?“ [partner] (PI: TRA Vandenbroucke).</li>
+</ul>
 
 <h2>Supervision</h2>
 
-<b>Houda Beghoura, M.Sc. 1st year</b> (Aix-Marseille University), “Impact of the growth of the Ordovician ice sheet on the atmospheric circulation and the carbon cycle”. Principal adviser. Co-adviser: Y. Donnadieu. Duration: 2 months.
-<b>Mourad Haggui, M.Sc. 2nd year</b> (Aix-Marseille University), “Coupling paleontological database and paleoceanographical modeling to investigate the paleobiogeography of Cretaceous reef carbonates”. Co-adviser. Principal advisor: J. Borgomano. Duration: 5 months.
+<ul>
+<li><b>Houda Beghoura, M.Sc. 1st year</b> (Aix-Marseille University), “Impact of the growth of the Ordovician ice sheet on the atmospheric circulation and the carbon cycle”. Principal adviser. Co-adviser: Y. Donnadieu. Duration: 2 months.</li>
+<li><b>Mourad Haggui, M.Sc. 2nd year</b> (Aix-Marseille University), “Coupling paleontological database and paleoceanographical modeling to investigate the paleobiogeography of Cretaceous reef carbonates”. Co-adviser. Principal advisor: J. Borgomano. Duration: 5 months.</li>
+</ul>
 
 <h2>Reviewer for</h2>
 
