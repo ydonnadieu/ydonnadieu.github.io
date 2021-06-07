@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Icehouse periods
-description: Characteristics and driving mechanisms of icehouse periods
+description: Characteristics of icehouse periods
 img: /assets/img/icehouse_230x230.jpg
 importance: 1
 category: work

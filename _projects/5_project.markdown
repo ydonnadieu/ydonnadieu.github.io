@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Early Paleozoic Earth
+title: Early Paleozoic
 description: The characteristics of Early Paleozoic climates, when complex forms of Life diversified
 img: /assets/img/sun_161x161.jpg
 importance: 1
