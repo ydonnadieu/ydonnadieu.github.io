@@ -1,7 +1,7 @@
 ---
-layout: page
-permalink: /publications/
-title: publications
+layout: smallfont_page
+permalink: /Publications/
+title: Publications
 description: Updated list of written publications
 nav: true
 ---
