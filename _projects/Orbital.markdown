@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Orbital climate
+title: Orbital variability
 description: Orbitally-driven changes in the climate system
 img: /assets/img/7.jpg
 importance: 3
