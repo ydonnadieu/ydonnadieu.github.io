@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paleogeography and climate
+title: Paleogeography & climate
 description: Understand how evolving geography drove past climate changes 
 img: /assets/img/Nepal.jpg
 importance: 2
