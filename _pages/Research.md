@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 description: 
 nav: true
-display_categories: [work, fun]
+display_categories: false
 horizontal: false
 ---
 <div class="projects">
