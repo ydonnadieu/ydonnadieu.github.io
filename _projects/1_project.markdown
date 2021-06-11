@@ -1,24 +1,25 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: South-East Asia
+description: Mantle-climate-biosphere connections in SE Asia
 img: /assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Temporal variations of land-sea mask distribution, triggered by vertical deformation, may have first order implications on external spheres of the Earth (e.g. atmosphere, biodiversity). The physiography of the Maritime Continent, with myriads of islands and shallow sea enable rapid and efficient geography changes. This make it an ideal place to study such connections. During my PhD I use a combination of geomorphology and numerical modeling to explore the :
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+- Vertical deformation in Sundaland (West Indonesia) during the Quaternary
+- Relation between geodynamics and vertical deformation
+- Impact of geography changes on regional climate
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+Ongoing collaborations aim at investigating the impact of those mantle-driven physiographic changes on biogeography.
+
+
+#### Associated publications 
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
