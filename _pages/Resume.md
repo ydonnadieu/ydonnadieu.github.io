@@ -11,14 +11,14 @@ horizontal: false
 
 ### Research Experiences
 
- <a href="#">__2019-2023__</a> Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
+<span style="color:blue">__2019-2023__</span>. Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
 - Project : Climate of the Miocene
 - Project : Cretaceous climate and carbon cycle
 
 _Paleoclimate modeling. Ocean biogeochemistry modeling._
 
- <a href="#">__2015-2018__</a>  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre), Grenoble Alpes University (Grenoble, France) and LSCE (Paris, France)
+__2015-2018__  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre), Grenoble Alpes University (Grenoble, France) and LSCE (Paris, France)
 
 - Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation. Supervisors : Dr. Laurent Husson (ISTerre) & Dr. Pierre Sepulchre (LSCE)
 
