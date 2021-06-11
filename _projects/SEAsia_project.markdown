@@ -36,9 +36,12 @@ Ongoing collaborations aim at investigating the impact of those mantle-driven ph
 
 Husson, L., Boucher F., Sarr, A-C., Sepulchre, P., Cahyarini, S.Y.  Evidence of Sundaland’s subsidence requires revisiting its biogeography (2020). Journal of Biogeography,47(4):843-853
     
+    
 Sarr, A-C., Sepulchre, P., Husson, L. (2019). Impact of Sunda shelf exposure on the climate of the Maritime Continent. Journal of Geophysical Research: Atmospheres, 124. 
 
+    
 Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi (2019). Subsiding Sundaland: REPLY to comment by R. Parham. Geology, 47(7):e470-e470 
+    
 
 Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. (2019). Subsiding Sundaland. Geology, 47:119-122. 
 
