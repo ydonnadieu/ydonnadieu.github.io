@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description:Post-Doctoral Researcher
+description: Post-Doctoral Researcher
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   address: >
     <p>CEREGE</p>
     <p> Technopole Arbois</p>
-    <p>13545 Aix en Provence</p>
+    <p>13545 Aix en Provence </p>
     <p>FRANCE</p>
 
 news: true  # includes a list of news items
