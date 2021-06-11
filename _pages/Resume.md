@@ -18,7 +18,7 @@ horizontal: false
 
 _Paleoclimate modeling. Ocean biogeochemistry modeling._
 
-`2015-2018__  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre), Grenoble Alpes University (Grenoble, France) and LSCE (Paris, France)
+`2015-2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre), Grenoble Alpes University (Grenoble, France) and LSCE (Paris, France)
 
 - Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation. Supervisors : Dr. Laurent Husson (ISTerre) & Dr. Pierre Sepulchre (LSCE)
 
@@ -27,15 +27,15 @@ _Understand the connections between internal and external spheres of the Earth i
 
 ### Fellowships & Grants
 
-- __2015-2018__ PhD Scholarship from the French Ministry of Education and Research
-- __2018__ ECORD Scholarship to attend the Urbino Summer School in Paleoclimatology
+- `2015-2018` PhD Scholarship from the French Ministry of Education and Research
+- `2018` ECORD Scholarship to attend the Urbino Summer School in Paleoclimatology
 
 
 ### Education
 
-- __2018__ Ph.D Earth Sciences, Grenoble Alpes University, France
-- __2015__ MsC Earth Sciences, Grenoble Alpes University, France
-- __2015__ MsC Geology and Geophysics, UniLasalle, France
+- `2018` Ph.D Earth Sciences, Grenoble Alpes University, France
+- `2015` MsC Earth Sciences, Grenoble Alpes University, France
+- `2015` MsC Geology and Geophysics, UniLasalle, France
 
 ### Supervision
 
