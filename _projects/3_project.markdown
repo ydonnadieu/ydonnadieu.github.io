@@ -1,18 +1,19 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Orbital climate
+description: Orbitally-driven changes in the climate system
 img: /assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Orbital parameters (obliquity, precession, eccentricity) control the amount and seasonal distribution of solar energy received at the surface of the Earth. Any variations in those paramaters drives modification of the climate system that are translated in the sedimentary record... 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
+#### Associated publications 
+
+Beaufort, L., Bolton, C., Sarr A-C., Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. Cyclic evolution of phytoplankton forced by tropical seasonality , in revision.
 
     ---
     layout: page
