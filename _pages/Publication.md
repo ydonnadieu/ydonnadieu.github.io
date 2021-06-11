@@ -2,18 +2,18 @@
 layout: smallfont_page
 permalink: /publication/
 title: Publications
-description: List of written publications
+description: 
 nav: true
 ---
 <p>&nbsp;</p>
 
-#### _Submitted_
+#### Submitted
 
 Beaufort, L., Bolton, C., Sarr A-C., Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. Cyclic evolution of phytoplankton forced by tropical seasonality , _in revision_. [[preprint](https://www.researchsquare.com/article/rs-100744/v1)]
 
 <p>&nbsp;</p>
 
-#### _Published_
+#### `Published`
 
 ##### 2021
 
