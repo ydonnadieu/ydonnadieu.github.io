@@ -12,10 +12,10 @@ Over the past million years, evolution of paleogeography has been responsible fo
 In this project initiated during my post-doc at CEREGE I use ocean-atmosphere and ocean biogeochemical models to explore how topography and land-sea mask distribution affect the climate system during the Cenozoic, with a specific focus on the Miocene. 
 
 <div class="row">
-    <div class="col-sm mt-2 mt-md-0">
+    <div class="col-sm-2 mt-2 mt-md-0">
         <img class="img-fluid rounded z-depth-0.5" src="{{ '/assets/pdf/Topo20Maforai.pdf' | relative_url }}" alt="" title="example image"/>
     </div>
-    <div class="col-sm mt-2 mt-md-0">
+    <div class="col-sm-2 mt-2 mt-md-0">
         <img class="img-fluid rounded z-depth-0.5" src="{{ '/assets/pdf/Topo10Maforai.pdf' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
