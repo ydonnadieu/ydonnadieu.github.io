@@ -8,7 +8,7 @@ middle_name:
 last_name: Sarr
 email: sarr@cerege.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  None
+  Post-doctoral researcher @ CEREGE
 footer_text: >
 #  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
  
@@ -58,7 +58,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Do not hesitate to e-mail me !
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
