@@ -11,9 +11,10 @@ horizontal: false
 
 ### Research Experiences
 
- <a href="#">__2019-2020__</a> Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
+ <a href="#">__2019-2023__</a> Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
-- Project [1 year] : Climate of the Miocene
+- Project : Climate of the Miocene
+- Project : Cretaceous climate and carbon cycle
 
 _Paleoclimate modeling. Ocean biogeochemistry modeling._
 
