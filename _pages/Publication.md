@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: smallfont_page
 permalink: /publication/
 title: Publications
 description: List of written publications
