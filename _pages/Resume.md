@@ -24,18 +24,22 @@ _Paleoclimate modeling. Ocean biogeochemistry modeling._
 
 _Understand the connections between internal and external spheres of the Earth in Indonesia using a combination of numerical models. Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling. Geomorphology._
 
+<p>&nbsp;</p>
 
 ### Fellowships & Grants
 
 - `2015-2018` PhD Scholarship from the French Ministry of Education and Research
 - `2018` ECORD Scholarship to attend the Urbino Summer School in Paleoclimatology
 
+<p>&nbsp;</p>
 
 ### Education
 
 - `2018` Ph.D Earth Sciences, Grenoble Alpes University, France
 - `2015` MsC Earth Sciences, Grenoble Alpes University, France
 - `2015` MsC Geology and Geophysics, UniLasalle, France
+
+<p>&nbsp;</p>
 
 ### Supervision
 
