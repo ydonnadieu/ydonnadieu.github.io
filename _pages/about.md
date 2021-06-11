@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Biogéosciences</p>
-    <p>6 Boulebard Gabriel</p>
+    <p>6 Boulevard Gabriel</p>
     <p>21000 Dijon </p>
     <p>FRANCE </p>
 
