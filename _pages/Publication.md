@@ -1,8 +1,8 @@
 ---
-layout: Publication
+layout: smallfont_page
 permalink: /publication/
-title: Publication
-description: Materials for courses you taught. Replace this text with your description.
+title: Publications
+description: List of written publications
 nav: true
 ---
 ## Submitted
