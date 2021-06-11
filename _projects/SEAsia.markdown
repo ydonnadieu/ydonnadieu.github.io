@@ -13,24 +13,22 @@ Temporal variations of land-sea mask distribution, triggered by vertical deforma
 - Relation between geodynamics and vertical deformation
 - Impact of geography changes on regional climate
 
-
-Ongoing collaborations aim at investigating the impact of those mantle-driven physiographic changes on biogeography.
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/BelitungReef.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Notch.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/BelitungGranites.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Jungle.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Notch.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left - Progading Mangrova. Belitung, Sundaland. Middle - Granites. Belitung, Sundaland. Right - Emerged reef & Notch. South Sulawesi.
 </div>
+
+Ongoing collaborations aim at investigating the impact of those mantle-driven physiographic changes on biogeography.
   
 #### Associated publications 
 
