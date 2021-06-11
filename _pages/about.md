@@ -18,5 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Postdoctoral researcher at CEREGE (France), working with [Yannick Donnadieu](https://cerege-cl.github.io/team/yannick_donnadieu/){:target="\_blank"}. My research focuses on understanding the connections between geodynamics, geography and climate during the Cenozoic. I am using various numerical models as well as geomorphology tools in order to study vertical deformation, paleogeography and paleoclimate. I completed my Ph.D at Grenoble Alpes University.
+I am currently a Postdoctoral researcher at CEREGE (France), working with [Yannick Donnadieu](https://cerege-cl.github.io/team/yannick_donnadieu/){:target="\_blank"}. My research aims at understanding the connections between geodynamics, geography and climate at global and regional scales. My main tool to do so is paleoclimate modeling but I am also familiar with various numerical and geomorphology tools useful to study the Earth surface deformation. My favorite playground are tropical areas such as the Maritime Continent and adjacent Indian Ocean that have been the focused of my work over the past few years. 
+
+
+
+
 
