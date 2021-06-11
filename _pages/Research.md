@@ -5,7 +5,7 @@ permalink: /research/
 description: I use numerical modeling to track mechanisms that link mantle-driven paleogeography evolution and climate.
 nav: true
 display_categories: false
-horizontal: false
+horizontal: true
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
