@@ -13,12 +13,12 @@ In this project initiated during my post-doc at CEREGE I use ocean-atmosphere an
 
 <div class="row">
     <div class="col-sm-4 mt-2 mt-md-0">
-        <img class="img-fluid rounded z-depth-0.5" src="{{ '/assets/pdf/Topo20Maforai.pdf' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-0.5" src="{{ '/assets/pdf/Topo20Maforai.pdf' | relative_url }}" alt="" title="Early Miocene geography"/>
     </div>
     <div class="col-sm-4 mt-2 mt-md-0">
-        <img class="img-fluid rounded z-depth-0.5" src="{{ '/assets/pdf/Topo10Maforai.pdf' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-0.5" src="{{ '/assets/pdf/Topo10Maforai.pdf' | relative_url }}" alt="" title="Late Miocene geography"/>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left - early Miocene geography (Poblete et al. 2021). Right - late Miocene geography
 </div>
