@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: smallfont_page
 title: Resume
 permalink: /resume/
 description: 
