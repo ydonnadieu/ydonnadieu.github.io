@@ -8,7 +8,7 @@ importance: 3
 category: work
 ---
 
-Orbital parameters (obliquity, precession, eccentricity) control the amount and seasonal distribution of solar energy received at the surface of the Earth. Any variations in those paramaters drives modification of the climate system that are translated in the sedimentary record... 
+Orbital parameters (obliquity, precession, eccentricity) control the amount and seasonal distribution of solar energy received at the surface of the Earth. Any variation in those paramaters drives modification of the climate system that are translated in the sedimentary record... 
 
 
 #### Associated publications 
