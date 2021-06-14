@@ -7,11 +7,13 @@ importance: 1
 category: work
 ---
 
-Temporal variations of land-sea mask distribution, triggered by vertical deformation, may have first order implications on external spheres of the Earth (e.g. atmosphere, biodiversity). The physiography of the Maritime Continent, with myriads of islands and shallow sea enable rapid and efficient geography changes. This make it an ideal place to study such connections. During my PhD I use a combination of geomorphology and numerical modeling to explore the :
+Temporal variations of land-sea mask distribution, triggered by vertical deformation, may have first order implications on external spheres of the Earth (e.g. atmosphere, biodiversity). The physiography of the Maritime Continent, with myriads of islands and shallow sea enable rapid and efficient geography changes. This make it an ideal place to study such connections. During my PhD I used a combination of geomorphology and numerical modeling to explore the :
 
 - Vertical deformation in Sundaland (West Indonesia) during the Quaternary
 - Relation between geodynamics and vertical deformation
 - Impact of geography changes on regional climate
+
+Ongoing collaborations now aim at investigating the impact of those mantle-driven physiographic changes on biogeography.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +30,7 @@ Temporal variations of land-sea mask distribution, triggered by vertical deforma
     Left - Progading Mangrova. Belitung, Sundaland. Middle - Granites. Belitung, Sundaland. Right - Emerged reef & Notch. South Sulawesi.
 </div>
 
-Ongoing collaborations aim at investigating the impact of those mantle-driven physiographic changes on biogeography.
+
   
 #### Associated publications 
 
@@ -42,4 +44,6 @@ Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Ar
     
 
 Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. (2019). Subsiding Sundaland. Geology, 47:119-122. 
+
+Pedoja, K., Husson, L., Bezos, A., Pastier, A-M., Imran, A-M., Arias, C., Sarr, A-C., Elliot, M., Pons-Branchu, E., Regard, E., Nexer, M., Regard, V., Hafidz, A., Robert, X., Benoit, L., Delcaillau, B., Authemayou, C., Dumoulin, C., Choblet, G. (2018) On the long-lasting sequences of coral reef terraces from SE Sulawesi (Indonesia): distribution, formation, and global significance. Quaternary Science Reviews, 188:37-57.
 
