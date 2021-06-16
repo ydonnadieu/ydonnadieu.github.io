@@ -22,7 +22,7 @@ _Paleoclimate modeling. Ocean biogeochemistry modeling._
 
 - Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation. Supervisors : Dr. Laurent Husson (ISTerre) & Dr. Pierre Sepulchre (LSCE)
 
-_Understand the connections between internal and external spheres of the Earth in Indonesia using a combination of numerical models. Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling. Geomorphology._
+_Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling. Geomorphology._
 
 <p>&nbsp;</p>
 
