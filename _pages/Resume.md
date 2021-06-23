@@ -42,9 +42,11 @@ nav: true
 <h2>Supervision</h2>
 
 <ul>
-<li><b>Houda Beghoura, M.Sc. 1st year</b> (Aix-Marseille University), “Impact of the growth of the Ordovician ice sheet on the atmospheric circulation and the carbon cycle”. Principal adviser. Co-adviser: Y. Donnadieu. Duration: 2 months.</li>
+<li><b>Thanh Nam NGO, 2nd year</b> (Polytech Orléans), “Simulating marine biodiversity using a coupled climate-biodiversity model”. Principal adviser. Co-adviser: A. Brayard. Duration: 1 month.</li>
 
-<li><b>Mourad Haggui, M.Sc. 2nd year</b> (Aix-Marseille University), “Coupling paleontological database and paleoceanographical modeling to investigate the paleobiogeography of Cretaceous reef carbonates”. Co-adviser. Principal advisor: J. Borgomano. Duration: 5 months.</li>
+<li><b>Houda BEGHOURA, M.Sc. 1st year</b> (Aix-Marseille University), “Impact of the growth of the Ordovician ice sheet on the atmospheric circulation and the carbon cycle”. Principal adviser. Co-adviser: Y. Donnadieu. Duration: 2 months.</li>
+
+<li><b>Mourad HAGGUI, M.Sc. 2nd year</b> (Aix-Marseille University), “Coupling paleontological database and paleoceanographical modeling to investigate the paleobiogeography of Cretaceous reef carbonates”. Co-adviser. Principal advisor: J. Borgomano. Duration: 5 months.</li>
 </ul>
 
 <p>&nbsp;</p>
