@@ -2,7 +2,7 @@
 layout: page
 title: Icehouse periods
 description: Characteristics of icehouse periods
-img: /assets/img/icehouse_230x230.jpg
+img: /assets/img/icehouse_230x230_landscape.png
 importance: 1
 category: work
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Neritic carbonates
 description: The climatic drivers and feedbacks of neritic carbonate production
-img: /assets/img/star_230x230.jpg
+img: /assets/img/star_230x230_landscape.png
 importance: 1
 category: work
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Paleogeography and climate
 description: Quantifying the climatic impact of the continental configuration
-img: /assets/img/earth_230x230.jpg
+img: /assets/img/earth_230x230_landscape.png
 importance: 1
 category: work
 ---
