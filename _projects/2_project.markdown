@@ -11,7 +11,6 @@ category: work
 
 The continental configuration significantly changed through geological times, with the periodic assembly and breakup of supercontinents. These continental changes impacted the Earth's albedo, the ocean circulation, the transport of heat to the poles, continental climate and weathering... and finally the Earth System as a whole. This research axis consists in quantifying this impact to improve our understanding of the evolution of Earth's climate during the Phanerozoic.
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/img_paleogeography_climate.png' | relative_url }}" alt="" title="Paleogeography and climate illustration"/>

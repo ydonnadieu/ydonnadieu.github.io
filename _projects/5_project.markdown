@@ -11,7 +11,6 @@ category: work
 
 Earth's environmental conditions during the Early Phanerozoic (Cambrian and Ordovician, ca. 540–485 million years ago) remain difficult to constrain. Yet, they constituted the physical background that hosted the diversification of most marine animal groups that we know today, during the Cambrian Explosion and subsequent Great Ordovician Biodiversification Event. We couple geochemical data and numerical climate models to better understand what our planet looked like at that critical period of biological change, including climate and the position of the continents.
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/img_early_paleozoic.png' | relative_url }}" alt="" title="Early Paleozoic illustration"/>

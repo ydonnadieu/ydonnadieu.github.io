@@ -11,7 +11,6 @@ category: work
 
 Icehouse periods are characterized by the presence of ice sheets at the poles. The climate of the Earth has long been seen as mainly warm at the geological timescale, punctuated by short icehouse periods. What made our planet enter such cold periods? What are the characteristics of these periods? Do they share common features, or are they all very different, e.g.,  due to the specific continental configurations and atmospheric gas levels? This is the kind of question I aim at addressing using climate-ice-sheet coupled numerical models.
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/img_icehouse_periods.png' | relative_url }}" alt="" title="Icehouse periods illustration"/>

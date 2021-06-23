@@ -11,7 +11,6 @@ category: work
 
 I am presently focusing on the co-evolution of marine Life and the physical environment. Why did marine Life undergo such a drastic explosion and diversification during the Early Paleozoic? What drivers shaped its temporal evolution? I use the GENIE Earth System Model to simulate the evolution of the physical environment (ocean oxygenation in particular) during the Phanerozoic, and the consequence on the marine biosphere at various temporal and spatial scales.
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/img_project_climate_biosphere.png' | relative_url }}" alt="" title="Climate-biosphere illustration"/>
@@ -22,6 +21,8 @@ I am presently focusing on the co-evolution of marine Life and the physical envi
 </div>
 
 <h2>Associated references</h2>
+
+<ul style="list-style-type:disc">
 
 <li>Zacaï, A., Monnet, C.,  Pohl, A., Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T.: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances 7(15), eabd6709. doi: 10.1126/sciadv.abd6709.</li>
 
@@ -36,3 +37,5 @@ I am presently focusing on the co-evolution of marine Life and the physical envi
 <li>Pohl, A., Donnadieu Y., Le Hir G., Ferreira D., 2017. The climatic significance of Late Ordovician–early Silurian black shales. Paleoceanography 32(4), 397-423. doi:10.1002/2016PA003064.</li>
 
 <li>Pohl, A., Nardin, E., Vandenbroucke, T., Donnadieu, Y., 2016. High dependence of Ordovician ocean surface circulation on atmospheric CO2 levels. Palaeogeography, Palaeoclimatology, Palaeoecology 458, 39–51. doi:10.1016/j.palaeo.2015.09.036.</li>
+
+</ul>

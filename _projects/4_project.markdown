@@ -11,7 +11,6 @@ category: work
 
 Shallow-water carbonates represent an important component of the Earth System, located at the interface between the ocean-atmosphere system and the lithosphere. We here investigate the relationships between shallow-water carbonate sedimentation and climate. We notably developed a model predicting the spatial occurrence of platform carbonates, validated in both the Modern and the Early Cretaceous (Aptian; 120 Ma). Using an approach combining models and data, we also reconstructed the temporal trend in neritic carbonate production and sedimentation during the Cretaceous and its environmental drivers.
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/img_neritic_carbonates.png' | relative_url }}" alt="" title="Neritic carbonates illustration"/>
