@@ -11,6 +11,16 @@ category: work
 
 I am presently focusing on the co-evolution of marine Life and the physical environment. Why did marine Life undergo such a drastic explosion and diversification during the Early Paleozoic? What drivers shaped its temporal evolution? I use the GENIE Earth System Model to simulate the evolution of the physical environment (ocean oxygenation in particular) during the Phanerozoic, and the consequence on the marine biosphere at various temporal and spatial scales.
 
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/img_project_climate_biosphere.png' | relative_url }}" alt="" title="Climate-biosphere illustration"/>
+    </div>
+</div>
+<div class="caption">
+    Simulated Cambrian phytoplankton (acritarch) biodiversity. Biodiversity was simulated using the METAL model, based on sea-surface temperatures simulated using the FOAM ocean-atmosphere general circulation model. After Zacai, Monnet, Pohl et al., 2021.
+</div>
+
 <h2>Associated references</h2>
 
 Zacaï, A., Monnet, C.,  Pohl, A., Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T.: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances 7(15), eabd6709. doi: 10.1126/sciadv.abd6709.
