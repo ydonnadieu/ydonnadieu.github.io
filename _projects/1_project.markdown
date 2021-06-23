@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Climate-biosphere
-description: co-evolution of climate and the marine biosphere
+description: Co-evolution of climate and the marine biosphere
 img: /assets/img/virus_230x230.jpg
 importance: 1
 category: work

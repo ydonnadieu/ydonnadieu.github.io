@@ -13,6 +13,8 @@ Earth's environmental conditions during the Early Phanerozoic (Cambrian and Ordo
 
 <h2>Associated references</h2>
 
+Wong Hearing, T.W., Pohl, A., Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate: Nature Communications, v. 12, p. 3868, doi:10.1038/s41467-021-24141-5.
+
 Zacaï, A., Monnet, C., Pohl, A., Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T.: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances 7(15), eabd6709. doi: 10.1126/sciadv.abd6709.
 
 Saupe, E., Qiao, H., Donnadieu, Y., Farnsworth, A., Kennedy-Asser, A., Ladant, J.-B., Lunt, D., Pohl, A., Valdes, P., Finnegan, S., 2019. Extinction intensity during Ordovician and Cenozoic glaciations explained by cooling and palaeogeography. Nature Geoscience 12, 65–70. doi: 10.1038/s41561-019-0504-6.
