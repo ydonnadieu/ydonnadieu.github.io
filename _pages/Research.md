@@ -5,7 +5,7 @@ permalink: /research/
 description: I use various numerical models in order to consider and quantify the response of each component of the climate system (ocean, atmosphere, vegetation, marine biomass, land ice…) to the forcing factor studied. I have been developing 5 main axes of research.
 nav: true
 display_categories:
-horizontal: false
+horizontal: true
 ---
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
