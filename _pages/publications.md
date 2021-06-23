@@ -10,7 +10,9 @@ nav: true
 
 <h4>2021</h4>
 
-[18] Zacaï, A., Monnet, C.,  Pohl, A., Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T.: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances 7(15), eabd6709. doi: 10.1126/sciadv.abd6709.
+[19] Wong Hearing, T.W., Pohl, A., Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate: Nature Communications, v. 12, p. 3868, doi:10.1038/s41467-021-24141-5.
+
+[18] Zacaï, A., Monnet, C.,  Pohl, A., Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T., 2021: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances 7(15), eabd6709. doi: 10.1126/sciadv.abd6709.
 
 <h4>2020</h4>
 
