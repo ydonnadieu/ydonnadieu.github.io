@@ -16,6 +16,8 @@ nav: true
 
 [1] Pohl A., Donnadieu Y., Le Hir G., Ladant J.B., Dumas C., Vandenbroucke T.R.A. The end-Ordovician glaciation: steppingstone toward a unifying theory for Phanerozoic ice ages. IGCP 591 “The Early to Middle Paleozoic Revolution” 5th Annual Meeting, Quebec City (Canada).
 
+<p>&nbsp;</p>
+
 <h2>Talks in international meetings</h2>
 
 [26] Lettéron, A., Sayago, J., Michel, J., Lanteaume, C., Pohl, A., Laugié, M., Donnadieu, Y., Kenter, J., Borgomano, J. Marine Carbonate Factories and Stratigraphic Response Through Time and Space: Methodology, Examples and Implications. AGU 2020, online.
@@ -69,6 +71,8 @@ nav: true
 [2] Guillon H., Godon C., Goupy B., Pohl A., Buoncristiani J.-F., and Mugnier J.-L., 2013. Periglacial area sediment budget of a rapidly retreating glacier inferred from four years of detrital flux monitoring (Bossons stream, Mont-Blanc massif, France). Congress Moutains under watch 2013, observating climate changes in the Alps, Forte di Bard (Italy).
 
 [1] Mugnier J.-L., Godon C., Buoncristiani J.-F., Guillon H., Trouvé., Pohl A., and Paquette J.-L., 2013. A measurement of the erosion beneath the Glacier des Bossons (Chamonix, France). Congress Moutains under watch 2013, observating climate changes in the Alps, Forte di Bard (Italy).
+
+<p>&nbsp;</p>
 
 <h2>Posters in international meetings</h2>
 

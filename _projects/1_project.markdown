@@ -18,7 +18,7 @@ I am presently focusing on the co-evolution of marine Life and the physical envi
     </div>
 </div>
 <div class="caption">
-    Simulated Cambrian phytoplankton (acritarch) biodiversity. Biodiversity was simulated using the METAL model, based on sea-surface temperatures simulated using the FOAM ocean-atmosphere general circulation model. After Zacai, Monnet, Pohl et al., 2021.
+    <b>Simulated Cambrian phytoplankton (acritarch) biodiversity.</b> Biodiversity was simulated using the METAL model, based on sea-surface temperatures simulated using the FOAM ocean-atmosphere general circulation model. After Zacai, Monnet, Pohl et al., 2021.
 </div>
 
 <h2>Associated references</h2>

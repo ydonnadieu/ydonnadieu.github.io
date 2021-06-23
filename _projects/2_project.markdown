@@ -11,6 +11,16 @@ category: work
 
 The continental configuration significantly changed through geological times, with the periodic assembly and breakup of supercontinents. These continental changes impacted the Earth's albedo, the ocean circulation, the transport of heat to the poles, continental climate and weathering... and finally the Earth System as a whole. This research axis consists in quantifying this impact to improve our understanding of the evolution of Earth's climate during the Phanerozoic.
 
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/img_paleogeography_climate.png' | relative_url }}" alt="" title="Paleogeography and climate illustration"/>
+    </div>
+</div>
+<div class="caption">
+    <b>Impact of continental drift on sea-surface temperatures during the Late Ordovician.</b> After Pohl et al., 2014.
+</div>
+
 <h2>Associated references</h2>
 
 Pohl, A., Laugié, M., Borgomano, J., Michel, J., Lanteaume, C., Scotese, C.R., Frau, C., Poli, E., Donnadieu, Y., 2019. Quantifying the paleogeographic driver of Cretaceous carbonate platform development using paleoecological niche modeling. Paleoceanography and Paleoclimatology 514, 222-232. doi:10.1016/j.palaeo.2018.10.017.

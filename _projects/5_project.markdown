@@ -11,6 +11,16 @@ category: work
 
 Earth's environmental conditions during the Early Phanerozoic (Cambrian and Ordovician, ca. 540–485 million years ago) remain difficult to constrain. Yet, they constituted the physical background that hosted the diversification of most marine animal groups that we know today, during the Cambrian Explosion and subsequent Great Ordovician Biodiversification Event. We couple geochemical data and numerical climate models to better understand what our planet looked like at that critical period of biological change, including climate and the position of the continents.
 
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/img_early_paleozoic.png' | relative_url }}" alt="" title="Early Paleozoic illustration"/>
+    </div>
+</div>
+<div class="caption">
+    <b>Simulated early Cambrian sea-surface temperatures.</b> Climate was simulated using the FOAM ocean-atmosphere general circulation model and simulations were ground-truthed using new d18O measurements. After Hearing et al., 2018.
+</div>
+
 <h2>Associated references</h2>
 
 Wong Hearing, T.W., Pohl, A., Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate: Nature Communications, v. 12, p. 3868, doi:10.1038/s41467-021-24141-5.

@@ -60,9 +60,13 @@ nav: true
 
 [1] Godon, C., Mugnier, J.-L., Fallourd, R., Paquette, J.-L., Pohl, A., Buoncristiani, J.-F., 2013. The Bossons glacier protects Europe’s summit from erosion. Earth and Planetary Science Letters 375, 135–147. doi:10.1016/j.epsl.2013.05.018.
 
+<p>&nbsp;</p>
+
 <h2>Book Chapters</h2>
 
 [1] Goddéris Y., Donnadieu Y., Pohl A., 2021. The Phanerozoic Climate. In: Ramstein G., Landais A., Bouttes N., Sepulchre P., Govin A. (eds) Paleoclimatology. Frontiers in Earth Sciences. Springer, pp. 359–383. doi: 10.1007/978-3-030-24982-3_27.
+
+<p>&nbsp;</p>
 
 <h2>Popularization</h2>
 

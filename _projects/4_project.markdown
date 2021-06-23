@@ -11,6 +11,16 @@ category: work
 
 Shallow-water carbonates represent an important component of the Earth System, located at the interface between the ocean-atmosphere system and the lithosphere. We here investigate the relationships between shallow-water carbonate sedimentation and climate. We notably developed a model predicting the spatial occurrence of platform carbonates, validated in both the Modern and the Early Cretaceous (Aptian; 120 Ma). Using an approach combining models and data, we also reconstructed the temporal trend in neritic carbonate production and sedimentation during the Cretaceous and its environmental drivers.
 
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/img_neritic_carbonates.png' | relative_url }}" alt="" title="Neritic carbonates illustration"/>
+    </div>
+</div>
+<div class="caption">
+    <b>Observed worldwide distribution of modern shallow-water marine carbonate factories.</b> After Laugié, Michel, Pohl et al., 2019.
+</div>
+
 <h2>Associated references</h2>
 
 Pohl, A., Donnadieu, Y., Godderis, Y., Lanteaume, C., Hairabian, A., Frau, C., Michel, J., Laugié, M., Reijmer, J. J. G., Scotese, C. R. and Jean, B, 2020. Carbonate platform production during the Cretaceous. GSA Bulletin 132(11-12), 2606-2610, doi:10.1130/B35680.1.

@@ -25,6 +25,8 @@ nav: true
 <li><b>Award</b>: André Prud’homme Prize from the Meteo and Climate Association.</li>
 </ul>
 
+<p>&nbsp;</p>
+
 <h2>Research Programs</h2>
 
 <ul>
@@ -35,6 +37,8 @@ nav: true
 <li><b>[2014] French National Programm (INSU-CNRS)</b>: “Ordovician microfossils and environment : did the Early Ordovician onset of cooling of the Early Palaeozoic Icehouse trigger the most important rise in biodiversity in the history of life on Earth?“ [partner] (PI: TRA Vandenbroucke).</li>
 </ul>
 
+<p>&nbsp;</p>
+
 <h2>Supervision</h2>
 
 <ul>
@@ -42,6 +46,8 @@ nav: true
 
 <li><b>Mourad Haggui, M.Sc. 2nd year</b> (Aix-Marseille University), “Coupling paleontological database and paleoceanographical modeling to investigate the paleobiogeography of Cretaceous reef carbonates”. Co-adviser. Principal advisor: J. Borgomano. Duration: 5 months.</li>
 </ul>
+
+<p>&nbsp;</p>
 
 <h2>Review activity</h2>
 
