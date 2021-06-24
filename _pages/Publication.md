@@ -32,7 +32,9 @@ __[8]__ Husson, L., Boucher F., __Sarr, A-C.__, Sepulchre, P., Cahyarini, S.Y.  
 
 ###### `2019`
 
-__[7]__ __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi (2019). Subsiding Sundaland: REPLY to comment by R. Parham. Geology, 47(7):e470-e470 
+__[7]__ __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi (2019). Subsiding Sundaland: REPLY to comment by R. Parham. Geology, 47(7):e470-e470 [[link](https://pubs.geoscienceworld.org/gsa/geology/article/47/7/e470/571723/Subsiding-Sundaland-REPLY)]
+
+- See also Comment by R.Parham. Geology, 47(7):e470-e470 [[link](https://pubs.geoscienceworld.org/gsa/geology/article/47/7/e469/571726/Subsiding-Sundaland-COMMENT)]
 
 __[6]__ __Sarr, A-C.__, Mugnier, J-L., Abrahami, R., Carcaillet, J., Ravanel, L. (2019). Sidewall erosion: insights from in situ-produced 10Be concentrations measured on supraglacial clasts (Mont Blanc massif, France). Earth Surface and Planetary Landform, 44(10):1930:1944. 
 
