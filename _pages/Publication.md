@@ -38,7 +38,7 @@ __[7]__ __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., El
 
 __[6]__ __Sarr, A-C.__, Mugnier, J-L., Abrahami, R., Carcaillet, J., Ravanel, L. (2019). Sidewall erosion: insights from in situ-produced 10Be concentrations measured on supraglacial clasts (Mont Blanc massif, France). Earth Surface and Planetary Landform, 44(10):1930:1944. 
 
-__[5]__ __Sarr, A-C.__, Sepulchre, P., Husson, L. (2019). Impact of Sunda shelf exposure on the climate of the Maritime Continent. Journal of Geophysical Research: Atmospheres, 124. 
+__[5]__ __Sarr, A-C.__, Sepulchre, P., Husson, L. (2019). Impact of Sunda shelf exposure on the climate of the Maritime Continent. Journal of Geophysical Research: Atmospheres, 124. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD029971)]
 
 __[4]__ __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. (2019). Subsiding Sundaland. Geology, 47:119-122. 
 
@@ -46,7 +46,7 @@ __[4]__ __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., El
 
 ###### `2018`
 
-__[3]__ Husson, L., Pastier, A-M., Elliot, M., Pedoja, K., Paillard, D., Authemayou, C., __Sarr, A-C.__, Schmitt, A., Cahyarini, S. Y., Hantoro, W. S. (2018). Reef carbonate productivity during Quaternary glacial oscillations. Geochemistry, Geophysics, Geosystems, 19:1148-1164. 
+__[3]__ Husson, L., Pastier, A-M., Elliot, M., Pedoja, K., Paillard, D., Authemayou, C., __Sarr, A-C.__, Schmitt, A., Cahyarini, S. Y., Hantoro, W. S. (2018). Reef carbonate productivity during Quaternary glacial oscillations. Geochemistry, Geophysics, Geosystems, 19:1148-1164. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GC007335)]
 
 __[2]__ Pedoja, K., Husson, L., Bezos, A., Pastier, A-M., Imran, A-M., Arias, C., __Sarr, A-C.__, Elliot, M., Pons-Branchu, E., Regard, E., Nexer, M., Regard, V., Hafidz, A., Robert, X., Benoit, L., Delcaillau, B., Authemayou, C., Dumoulin, C., Choblet, G. (2018) On the long-lasting sequences of coral reef terraces from SE Sulawesi (Indonesia): distribution, formation, and global significance. Quaternary Science Reviews, 188:37-57. 
 
