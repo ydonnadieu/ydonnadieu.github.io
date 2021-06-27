@@ -7,11 +7,6 @@ description: Marie Curie Postdoctoral Fellow
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>Biogéosciences</p>
-    <p>6 Boulevard Gabriel</p>
-    <p>21000 Dijon </p>
-    <p>FRANCE </p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
