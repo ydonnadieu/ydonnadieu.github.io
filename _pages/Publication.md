@@ -7,8 +7,8 @@ nav: true
 ---
 <p>&nbsp;</p>
 
-#### Submitted
-Bolton, C.T., Gray, E., Kuhnt, W.,  Holbourn, A., Lübbers, J., Grant, K., Tachikawa, K., Marino, G., Rohling, E.J., __Sarr, A-C.__, Andersen, N. Secular and orbital-scale variability of equatorial Indian Ocean summer monsoon winds during the late Miocene. _submitted_ to Climate of the Past
+#### Submitted / under review
+Bolton, C.T., Gray, E., Kuhnt, W.,  Holbourn, A., Lübbers, J., Grant, K., Tachikawa, K., Marino, G., Rohling, E.J., __Sarr, A-C.__, Andersen, N. Secular and orbital-scale variability of equatorial Indian Ocean summer monsoon winds during the late Miocene. _in discussion_ at Climate of the Past [[preprint](https://cp.copernicus.org/preprints/cp-2021-77/)]
 
 Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. Cyclic evolution of phytoplankton forced by tropical seasonality , _in revision_. [[preprint](https://www.researchsquare.com/article/rs-100744/v1)]
 
