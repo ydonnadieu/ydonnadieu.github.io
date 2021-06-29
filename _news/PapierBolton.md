@@ -5,6 +5,4 @@ inline: true
 ---
 
 
-🌏🌦💨 New preprint available in [Clim. Past. Discussion](https://cp.copernicus.org/preprints/cp-2021-77/) 
-
-[Bolton et al., _Secular and orbital-scale variability of equatorial Indian Ocean summer monsoon winds during the late Miocene_]
+🌏🌦💨 New preprint on Miocene Indian Ocean available in [Clim. Past. Discussion](https://cp.copernicus.org/preprints/cp-2021-77/) [by Bolton et al.]
