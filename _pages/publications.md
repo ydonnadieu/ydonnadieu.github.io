@@ -8,7 +8,7 @@ nav: true
 
 <h2>International Publications</h2>
 
-<h4>2021</h4>
+###### `2021`
 
 [19] Wong Hearing, T.W., Pohl, A., Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate: Nature Communications, v. 12, p. 3868, doi:10.1038/s41467-021-24141-5.
 
