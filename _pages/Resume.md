@@ -6,40 +6,32 @@ description: CV
 nav: true
 ---
 
-<h2>Research Positions</h2>
+## Research Positions
 
-<h6>`2019–2021` Marie Curie postdoctoral researcher, paleoclimate modeling, University of California Riverside, CA, USA.</h6> 
-<ul>
-<li><b>Project [2 years]</b>: <i>BioSIGNAL: Biological pump sensitivity and climate change – Interrogating past environmental perturbations.</i> Modeling changes in deep-time marine planktonic communities and their impact on ocean biogeochemistry, with special focus on ocean oxygenation / anoxia.</li>
-</ul>
+###### `2019–2021` Marie Curie postdoctoral researcher, paleoclimate modeling, University of California Riverside, CA, USA.
+- <b>Project [2 years]</b>: <i>BioSIGNAL: Biological pump sensitivity and climate change – Interrogating past environmental perturbations.</i> Modeling changes in deep-time marine planktonic communities and their impact on ocean biogeochemistry, with special focus on ocean oxygenation / anoxia.</li>
 
-<h6>`2017–2019` Postdoctoral researcher, paleoclimate modeling, Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE), Aix en Provence, France. </h6> 
-<ul>
-<li><b>Project [2 years]</b>: <i>Investigating and quantifying the impact of the paleogeographical changes on the potential for reef-carbonate development throughout the Cretaceous.</i> </li>
-</ul>
+###### `2017–2019` Postdoctoral researcher, paleoclimate modeling, Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE), Aix en Provence, France.
+- <b>Project [2 years]</b>: <i>Investigating and quantifying the impact of the paleogeographical changes on the potential for reef-carbonate development throughout the Cretaceous.</i> </li>
 
-<h6>`2013–2016` Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.</h6> 
-<ul>
-<li><b>Project [3 years]</b>: <i>Numerical modeling for increased understanding of Ordovician climate.</i> Supervisors: Yannick DONNADIEU (LSCE) and Guillaume LE HIR (IPGP).</li>
-<li><b>Award</b>: Van Straelen Prize from the French Geological Society (SGF).</li>
-<li><b>Award</b>: André Prud’homme Prize from the Meteo and Climate Association.</li>
-</ul>
+###### `2013–20216` Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.
+- <b>Project [3 years]</b>: <i>Numerical modeling for increased understanding of Ordovician climate.</i> Supervisors: Yannick DONNADIEU (LSCE) and Guillaume LE HIR (IPGP).</li>
+- <b>Award</b>: Van Straelen Prize from the French Geological Society (SGF).</li>
+- <b>Award</b>: André Prud’homme Prize from the Meteo and Climate Association.</li>
 
 <p>&nbsp;</p>
 
-<h2>Research Programs</h2>
+## Research Programs
 
-<ul>
-<li><b>`2019` Marie Curie Global Fellowship (European project)</b>: “Biological pump sensitivity and climate change: interrogating past environmental perturbations (BioSIGNAL)“ [PI].</li>
+- `2019`  <b>Marie Curie Global Fellowship (European project)</b>: “Biological pump sensitivity and climate change: interrogating past environmental perturbations (BioSIGNAL)“ [PI].
 
-<li><b>`2015` French National Programm (INSU-CNRS)</b>: “Response of global marine biodiversity to a major climate change: modeling the Ordovician glaciation (445 Ma) with the MITgcm and its marine ecology model Darwin.“ [partner, significantly contributed to the design and writting of the project] (PI: Y Donnadieu).</li>
+- `2015`  <b>French National Programm (INSU-CNRS)</b>: “Response of global marine biodiversity to a major climate change: modeling the Ordovician glaciation (445 Ma) with the MITgcm and its marine ecology model Darwin.“ [partner, significantly contributed to the design and writting of the project] (PI: Y Donnadieu).
 
-<li><b>`2014` French National Programm (INSU-CNRS)</b>: “Ordovician microfossils and environment : did the Early Ordovician onset of cooling of the Early Palaeozoic Icehouse trigger the most important rise in biodiversity in the history of life on Earth?“ [partner] (PI: TRA Vandenbroucke).</li>
-</ul>
+- `2014` <b>French National Programm (INSU-CNRS)</b>: “Ordovician microfossils and environment : did the Early Ordovician onset of cooling of the Early Palaeozoic Icehouse trigger the most important rise in biodiversity in the history of life on Earth?“ [partner] (PI: TRA Vandenbroucke).
 
 <p>&nbsp;</p>
 
-<h2>Supervision</h2>
+## Supervision
 
 <ul>
 <li><b>Thanh Nam NGO, 2nd year</b> (Polytech Orléans), “Simulating marine biodiversity using a coupled climate-biodiversity model”. Principal adviser. Co-adviser: A. Brayard. Duration: 1 month.</li>
