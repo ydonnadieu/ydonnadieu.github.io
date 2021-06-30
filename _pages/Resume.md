@@ -24,22 +24,16 @@ nav: true
 ## Research Programs
 
 - `2019`  <b>Marie Curie Global Fellowship (European project)</b>: “Biological pump sensitivity and climate change: interrogating past environmental perturbations (BioSIGNAL)“ [PI].
-
 - `2015`  <b>French National Programm (INSU-CNRS)</b>: “Response of global marine biodiversity to a major climate change: modeling the Ordovician glaciation (445 Ma) with the MITgcm and its marine ecology model Darwin.“ [partner, significantly contributed to the design and writting of the project] (PI: Y Donnadieu).
-
 - `2014` <b>French National Programm (INSU-CNRS)</b>: “Ordovician microfossils and environment : did the Early Ordovician onset of cooling of the Early Palaeozoic Icehouse trigger the most important rise in biodiversity in the history of life on Earth?“ [partner] (PI: TRA Vandenbroucke).
 
 <p>&nbsp;</p>
 
 ## Supervision
 
-<ul>
-<li><b>Thanh Nam NGO, 2nd year</b> (Polytech Orléans), “Simulating marine biodiversity using a coupled climate-biodiversity model”. Principal adviser. Co-adviser: A. Brayard. Duration: 1 month.</li>
-
-<li><b>Houda BEGHOURA, M.Sc. 1st year</b> (Aix-Marseille University), “Impact of the growth of the Ordovician ice sheet on the atmospheric circulation and the carbon cycle”. Principal adviser. Co-adviser: Y. Donnadieu. Duration: 2 months.</li>
-
-<li><b>Mourad HAGGUI, M.Sc. 2nd year</b> (Aix-Marseille University), “Coupling paleontological database and paleoceanographical modeling to investigate the paleobiogeography of Cretaceous reef carbonates”. Co-adviser. Principal advisor: J. Borgomano. Duration: 5 months.</li>
-</ul>
+- <b>Thanh Nam NGO, 2nd year</b> (Polytech Orléans), “Simulating marine biodiversity using a coupled climate-biodiversity model”. Principal adviser. Co-adviser: A. Brayard. Duration: 1 month.
+- <b>Houda BEGHOURA, M.Sc. 1st year</b> (Aix-Marseille University), “Impact of the growth of the Ordovician ice sheet on the atmospheric circulation and the carbon cycle”. Principal adviser. Co-adviser: Y. Donnadieu. Duration: 2 months.
+- <b>Mourad HAGGUI, M.Sc. 2nd year</b> (Aix-Marseille University), “Coupling paleontological database and paleoceanographical modeling to investigate the paleobiogeography of Cretaceous reef carbonates”. Co-adviser. Principal advisor: J. Borgomano. Duration: 5 months.
 
 <p>&nbsp;</p>
 
