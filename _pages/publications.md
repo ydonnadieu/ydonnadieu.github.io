@@ -86,5 +86,5 @@ __[1]__ Goddéris Y., Donnadieu Y., __Pohl A.__, 2021. The Phanerozoic Climate. 
 
 <h2>Popularization</h2>
 
-__[1]__ ____Pohl, A.____, Donnadieu, Y., Le Hir, G. La modélisation peut-elle aider à comprendre le climat d’il y a 450 millions d’années? La Météorologie 105, 29–37. doi: 10.4267/2042/70167.
+__[1]__ __Pohl, A.__, Donnadieu, Y., Le Hir, G. La modélisation peut-elle aider à comprendre le climat d’il y a 450 millions d’années? La Météorologie 105, 29–37. doi: 10.4267/2042/70167.
 
