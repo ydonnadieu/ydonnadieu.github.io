@@ -8,17 +8,17 @@ nav: true
 
 <h2>Research Positions</h2>
 
-<h6>[2019–2021] Marie Curie postdoctoral researcher, paleoclimate modeling, University of California Riverside, CA, USA.</h6> 
+<h6>`2019–2021` Marie Curie postdoctoral researcher, paleoclimate modeling, University of California Riverside, CA, USA.</h6> 
 <ul>
 <li><b>Project [2 years]</b>: <i>BioSIGNAL: Biological pump sensitivity and climate change – Interrogating past environmental perturbations.</i> Modeling changes in deep-time marine planktonic communities and their impact on ocean biogeochemistry, with special focus on ocean oxygenation / anoxia.</li>
 </ul>
 
-<h6>[2017–2019] Postdoctoral researcher, paleoclimate modeling, Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE), Aix en Provence, France. </h6> 
+<h6>`2017–2019` Postdoctoral researcher, paleoclimate modeling, Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE), Aix en Provence, France. </h6> 
 <ul>
 <li><b>Project [2 years]</b>: <i>Investigating and quantifying the impact of the paleogeographical changes on the potential for reef-carbonate development throughout the Cretaceous.</i> </li>
 </ul>
 
-<h6>[2013–2016] Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.</h6> 
+<h6>`2013–2016` Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.</h6> 
 <ul>
 <li><b>Project [3 years]</b>: <i>Numerical modeling for increased understanding of Ordovician climate.</i> Supervisors: Yannick DONNADIEU (LSCE) and Guillaume LE HIR (IPGP).</li>
 <li><b>Award</b>: Van Straelen Prize from the French Geological Society (SGF).</li>
@@ -30,11 +30,11 @@ nav: true
 <h2>Research Programs</h2>
 
 <ul>
-<li><b>[2019] Marie Curie Global Fellowship (European project)</b>: “Biological pump sensitivity and climate change: interrogating past environmental perturbations (BioSIGNAL)“ [PI].</li>
+<li><b>`2019` Marie Curie Global Fellowship (European project)</b>: “Biological pump sensitivity and climate change: interrogating past environmental perturbations (BioSIGNAL)“ [PI].</li>
 
-<li><b>[2015] French National Programm (INSU-CNRS)</b>: “Response of global marine biodiversity to a major climate change: modeling the Ordovician glaciation (445 Ma) with the MITgcm and its marine ecology model Darwin.“ [partner, significantly contributed to the design and writting of the project] (PI: Y Donnadieu).</li>
+<li><b>`2015` French National Programm (INSU-CNRS)</b>: “Response of global marine biodiversity to a major climate change: modeling the Ordovician glaciation (445 Ma) with the MITgcm and its marine ecology model Darwin.“ [partner, significantly contributed to the design and writting of the project] (PI: Y Donnadieu).</li>
 
-<li><b>[2014] French National Programm (INSU-CNRS)</b>: “Ordovician microfossils and environment : did the Early Ordovician onset of cooling of the Early Palaeozoic Icehouse trigger the most important rise in biodiversity in the history of life on Earth?“ [partner] (PI: TRA Vandenbroucke).</li>
+<li><b>`2014` French National Programm (INSU-CNRS)</b>: “Ordovician microfossils and environment : did the Early Ordovician onset of cooling of the Early Palaeozoic Icehouse trigger the most important rise in biodiversity in the history of life on Earth?“ [partner] (PI: TRA Vandenbroucke).</li>
 </ul>
 
 <p>&nbsp;</p>
