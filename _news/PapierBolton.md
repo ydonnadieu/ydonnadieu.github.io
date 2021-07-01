@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-🌏🌦💨 New preprint on Miocene Indian Ocean available in [Clim. Past. Discussion](https://cp.copernicus.org/preprints/cp-2021-77/) [by Clara Bolton et al.]
+New preprint on Miocene Indian Ocean available in [Clim. Past. Discussion](https://cp.copernicus.org/preprints/cp-2021-77/) 🌏🌦💨 
