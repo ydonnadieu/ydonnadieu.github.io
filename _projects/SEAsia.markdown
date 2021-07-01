@@ -34,16 +34,13 @@ Ongoing collaborations now aim at investigating the impact of those mantle-drive
   
 #### Associated publications 
 
-Husson, L., Boucher F., Sarr, A-C., Sepulchre, P., Cahyarini, S.Y.  Evidence of Sundaland’s subsidence requires revisiting its biogeography (2020). Journal of Biogeography,47(4):843-853
-    
-    
-Sarr, A-C., Sepulchre, P., Husson, L. (2019). Impact of Sunda shelf exposure on the climate of the Maritime Continent. Journal of Geophysical Research: Atmospheres, 124. 
+- Husson, L., Boucher F., Sarr, A-C., Sepulchre, P., Cahyarini, S.Y.  Evidence of Sundaland’s subsidence requires revisiting its biogeography (2020). Journal of Biogeography,47(4):843-853
+      
+- Sarr, A-C., Sepulchre, P., Husson, L. (2019). Impact of Sunda shelf exposure on the climate of the Maritime Continent. Journal of Geophysical Research: Atmospheres, 124. 
 
+- Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi (2019). Subsiding Sundaland: REPLY to comment by R. Parham. Geology, 47(7):e470-e470 
     
-Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi (2019). Subsiding Sundaland: REPLY to comment by R. Parham. Geology, 47(7):e470-e470 
-    
+- Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. (2019). Subsiding Sundaland. Geology, 47:119-122. 
 
-Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. (2019). Subsiding Sundaland. Geology, 47:119-122. 
-
-Pedoja, K., Husson, L., Bezos, A., Pastier, A-M., Imran, A-M., Arias, C., Sarr, A-C., Elliot, M., Pons-Branchu, E., Regard, E., Nexer, M., Regard, V., Hafidz, A., Robert, X., Benoit, L., Delcaillau, B., Authemayou, C., Dumoulin, C., Choblet, G. (2018) On the long-lasting sequences of coral reef terraces from SE Sulawesi (Indonesia): distribution, formation, and global significance. Quaternary Science Reviews, 188:37-57.
+- Pedoja, K., Husson, L., Bezos, A., Pastier, A-M., Imran, A-M., Arias, C., Sarr, A-C., Elliot, M., Pons-Branchu, E., Regard, E., Nexer, M., Regard, V., Hafidz, A., Robert, X., Benoit, L., Delcaillau, B., Authemayou, C., Dumoulin, C., Choblet, G. (2018) On the long-lasting sequences of coral reef terraces from SE Sulawesi (Indonesia): distribution, formation, and global significance. Quaternary Science Reviews, 188:37-57.
 
