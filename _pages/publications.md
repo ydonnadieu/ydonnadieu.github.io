@@ -13,6 +13,7 @@ nav: true
 ##### `2021`
 
 __[19]__ Wong Hearing, T.W., __Pohl, A.__, Williams, M., Donnadieu, Y., Harvey, T.H.P., Scotese, C.R., Sepulchre, P., Franc, A., and Vandenbroucke, T.R.A., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate: Nature Communications, v. 12, p. 3868, doi:10.1038/s41467-021-24141-5. [[link](https://www.nature.com/articles/s41467-021-24141-5){:target="_blank"}]
+- Associated data: [[https://zenodo.org/record/4506617#.YN3sxRMzaCc](https://zenodo.org/record/4506617#.YN3sxRMzaCc){:target="_blank"}]
 
 __[18]__ Zacaï, A., Monnet, C.,  __Pohl, A.__, Beaugrand, G., Mullins, G., Kroeck, D.M., Servais, T., 2021: Truncated bimodal latitudinal diversity gradient in early Paleozoic phytoplankton. Science Advances 7(15), eabd6709. doi: 10.1126/sciadv.abd6709. [[link](https://advances.sciencemag.org/content/7/15/eabd6709){:target="_blank"}]
 
@@ -23,6 +24,7 @@ __[18]__ Zacaï, A., Monnet, C.,  __Pohl, A.__, Beaugrand, G., Mullins, G., Kroe
 __[17]__ Frau, C., Wimbledon, W.A.P., Ifrim, C., Bulot, L.G., __Pohl, A.__, 2020. Berriasian ammonites of supposed Tethyan origin from the type ‘Ryazanian’, Russia: a systematic re-interpretation. Paleoworld, in press. doi: 10.1016/j.palwor.2020.07.004. [[link](https://www.sciencedirect.com/science/article/abs/pii/S1871174X20300585){:target="_blank"}]
 
 __[16]__ __Pohl, A.__, Donnadieu, Y., Godderis, Y., Lanteaume, C., Hairabian, A., Frau, C., Michel, J., Laugié, M., Reijmer, J. J. G., Scotese, C. R. and Jean, B, 2020. Carbonate platform production during the Cretaceous. GSA Bulletin 132(11-12), 2606-2610, doi:10.1130/B35680.1. [[link](https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/132/11-12/2606/583643/Carbonate-platform-production-during-the?redirectedFrom=fulltext){:target="_blank"}]
+- Associated data: [[https://doi.pangaea.de/10.1594/PANGAEA.904255](https://doi.pangaea.de/10.1594/PANGAEA.904255){:target="_blank"}]
 
 __[15]__ Frau, C., Tendil, A.J.B., __Pohl, A.__, Lanteaume, C., 2020. Revising the timing and causes of the Urgonian rudistid-platform demise in the Mediterranean Tethys. Global and Planetary Change 187, 103124. doi: 10.1016/j.apcatb.2019.118224. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0921818120300138){:target="_blank"}]
 
