@@ -20,5 +20,5 @@ In this project initiated during my post-doc at CEREGE I use ocean-atmosphere an
     </div>
 </div>
 <div class="caption">
-    Left - early Miocene geography (Poblete et al. 2021). Right - late Miocene geography
+    Left - early Miocene geography (from Poblete et al. 2021). Right - late Miocene geography
 </div>
