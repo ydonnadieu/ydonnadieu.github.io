@@ -49,4 +49,7 @@ nav: true
 <li>Geology</li>
 <li>Earth Science Reviews</li>
 <li>Geological Magazine</li>
+<li>GSA Bulletin</li>
+<li>Science Advances</li>
+<li>Biogeosciences</li>
 </ul>
