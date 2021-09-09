@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: I use numerical modeling to track mechanisms that link mantle-driven paleogeography evolution and climate.
+description: I use numerical modeling to track mechanism paleogeography evolution (with strong preferences for change driven by mantle dynamics) and climate. 
 nav: true
 display_categories: false
 horizontal: false
