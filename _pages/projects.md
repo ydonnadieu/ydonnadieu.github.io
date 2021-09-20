@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of research internships and cool PhD projects.
+description:  Research internships and cool PhD projects.
 nav: true
 display_categories: [work, others]
 horizontal: false
