@@ -9,7 +9,7 @@ nav: true
 ## Research Positions
 
 ###### `2019–2021` Marie Curie postdoctoral researcher, paleoclimate modeling, University of California Riverside, CA, USA.
-- __Project [2 years]__: <i>BioSIGNAL: Biological pump sensitivity and climate change – Interrogating past environmental perturbations.</i> Modeling changes in deep-time marine planktonic communities and their impact on ocean biogeochemistry, with special focus on ocean oxygenation / anoxia.
+- __Project [2 years]__: <i>[BioSIGNAL: Biological pump sensitivity and climate change – Interrogating past environmental perturbations.](https://alexpohl.github.io/BioSIGNAL/){:target="\_blank"}</i> Modeling changes in deep-time marine planktonic communities and their impact on ocean biogeochemistry, with special focus on ocean oxygenation / anoxia.
 
 ###### `2017–2019` Postdoctoral researcher, paleoclimate modeling, Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE), Aix en Provence, France.
 - __Project [2 years]__: <i>Investigating and quantifying the impact of the paleogeographical changes on the potential for reef-carbonate development throughout the Cretaceous.</i>
