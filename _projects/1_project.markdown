@@ -2,14 +2,14 @@
 layout: page
 title: Master Internship 1
 description: Climates of the Early Paleozoic
-img: /assets/img/12.jpg
+img: /assets/img/SST-30X-2X-Ordovicien.png
 importance: 1
 category: work
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="Model ouputs"/>
     </div>
 </div>
 <div class="caption">
