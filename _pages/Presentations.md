@@ -8,9 +8,11 @@ nav: true
 
 ## Keynotes
 
+__[5]__ __Pohl A.__, Nardin, E., Vandenbroucke T.R.A., Donnadieu Y. The Ordovician ocean circulation, a modern synthesis based on data and models. IGCP653 absolutely final meeting 2021, online.
+
 __[4]__ __Pohl A.__, Donnadieu Y., Le Hir G., Ladant J.B., Dumas C., Vandenbroucke T.R.A., Austermann, J. Modeling Ordovician ice sheet and the sea-level fingerprint of its collapse: toward a consistent picture of the Ordovician glaciation. GSA2020, online.
 
-__[3]__ __Pohl A.__, Donnadieu Y., Le Hir G., Ferreira D., 2019. The climatic significance of Late Ordovician – Early Silurian black shales. GSA2019, Phoenix, USA.
+__[3]__ __Pohl A.__, Donnadieu Y., Le Hir G., Ferreira D. The climatic significance of Late Ordovician – Early Silurian black shales. GSA2019, Phoenix, USA.
 
 __[2]__ __Pohl A.__, Donnadieu Y., Le Hir G., Ladant J.B., Dumas C., Vandenbroucke T.R.A. Reconstructing paleoceanography and paleoclimate in the Ordovician: what can we learn from climate models? IGCP 653 “The onset of the Great Ordovician Biodiversity Event” Opening Meeting, Durham (UK).
 
