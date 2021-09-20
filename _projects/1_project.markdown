@@ -2,7 +2,7 @@
 layout: page
 title: Master Internship 1
 description: Climates of the Early Paleozoic
-img: /assets/img/SST-30X-2X-Ordovicien.png
+img: /assets/img/OrdoNEMOGrid.png
 importance: 1
 category: work
 ---
