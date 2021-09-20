@@ -1,79 +1,23 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Cenozoic AMOC history and the marine carbon cycle
+description: PhD project
 img: /assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
+Évolution de la circulation océanique au cours des derniers 55 Ma vue par le modèle Système Terre de l’IPSL
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Chercheurs impliqués : Anta Sarr, Laurent Bopp, Yannick Donnadieu, Jean-Baptiste Ladant
+Laboratoires impliqués : ENS-Ulm, CEREGE (Aix en Provence), LSCE (Saclay)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Le devenir de la circulation océanique dans notre futur proche reste empreint de nombreuses incertitudes et soulève, à juste titre, de nombreux projets de recherche cherchant par l’observation et par la simulation numérique à réduire l’espace des possibles. La formation d’eau profonde en Atlantique Nord et son lien avec le courant océanique Gulf Stream qui permet au climat européen de rester doux pendant la saison hivernale sont deux caractéristiques dont les modifications auraient des répercutions majeures sur les sociétés européennes. Bien que les études de modélisation tendent à s’accorder sur un affaiblissement de la plongée d’eaux profondes dans les 50 prochaines années en gardant une dispersion importante sur le timing exact et l’amplitude du changement, nous aimerions ici proposer une thématique de recherche complémentaire qui se focaliserait sur les raisons de l’asymétrie actuelle Atlantique/Pacifique. Est-ce qu’il en a toujours était ainsi ? Lorsqu’on explore le passé de la Terre et en particulier celui de l’océan, la source d’information privilégiée des chercheurs est le fond marin sur lequel des campagnes de forage sont réalisées (https://www.iodp.org). A partir des sédiments extraits dans les forages, les géochimistes et les micro-paléontologues diagnostiquent l’évolution des températures de surface et du fond, de la salinité et même du pH et ceux, sur plusieurs millions d’années. A partir de la géochimie des isotopes stables du carbone mesurée sur les micro-organismes de surface et du fond, il est également possible de caractériser la stratification des eaux et donc la présence d’une ou deux couches d’eaux profondes. Une autre possibilité consiste à mesure les isotopes du Néodyme qui sont également un excellent traceur de la circulation profonde océanique. Pour autant, comme souvent le cas en recherche, les réponses ne sont pas univoques et il est nécessaire d’assembler plusieurs faisceaux de preuves avant de pouvoir conclure. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Nous disposons aujourd’hui de simulations réalisées avec le modèle couplé de l’IPSL, CM5A2, sur différentes périodes de temps couvrant les 55 derniers millions d’année. De nombreuses conditions actuelles ont été modifiées dans ces simulations afin de reproduire le climat de l’Éocène Inférieur (52 Ma), de l’Éocène Supérieur (40 Ma), de l’Oligocène inférieur (30 Ma), du Miocène moyen (20 Ma) et du Miocène supérieur (10 Ma) : la teneur en CO2 (420, 560, 840 et 1120 ppm), la géographie, les reliefs et les passages marins. Ces simulations sont une formidable opportunité de repousser notre compréhension de la circulation océanique en nous donnant accès à de nouveaux équilibres au grès de l’ouverture et la fermeture des passages marins ou encore de l’élargissement du bassin Atlantique et de la fermeture de la Méditerranée sur sa partie orientale. Plusieurs sujets de recherche peuvent découler de ces simulations. 
+1)	Étudier l’évolution des conditions océaniques dans l’Atlantique Nord afin de comprendre à partir de quand la formation d’eau profonde se met en place. Dans le détail, il s’agit d’analyser les bilans d’eau et thermiques pour appréhender les raisons à l’origine du déclenchement des instabilités convectives.  
+2)	Au-delà de l’impact de la géométrie du pourtour Terre-Océan, les simulations à plusieurs teneurs en CO2 permettront de tester la stabilité de la circulation océanique à un événement de réchauffement global de la Terre et également de quantifier la sensibilité climatique en fonction de la paléogéographie.  
+3)	 Une autre approche est d’utiliser la version du modèle PISCES incluant les isotopes stables (carbone et azote) afin de simuler directement la distribution du d13C et pouvoir comparer nos sorties de modèles aux observables mesurés pour ces périodes anciennes.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Ces sujets/thématiques s’adressent à toutes personnes motivées et ayant un cursus adéquat pour rapidement rentrer dans le vif du sujet. Nous disposons de financement autant pour des stages de Master que pour des contrats d’un an. 
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
