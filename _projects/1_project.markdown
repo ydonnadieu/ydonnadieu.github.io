@@ -1,78 +1,33 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Master Internship 1
+description: Climates of the Early Paleozoic
 img: /assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Sea Surface Temperature as simulated for 30 and 2 times the pre-industrial CO2 level (280 ppm) using IPSL-CM5A2
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+L’Ordovicien terminal, il y a environ 444 millions d’années, est une période climatique très dynamique caractérisée par un refroidissement global majeur et la mise en place d’une calotte glaciaire au pôle Sud. C’est aussi à cette époque qu’a eu lieu la première des cinq grandes extinctions de masse ayant marqué l’histoire de la Vie sur Terre, avec la disparition de plus de 85 % des espèces marines. Si cette période représente bien une étape-clé dans l’évolution conjointe du climat et de la vie marine, les mécanismes ayant mené au refroidissement brutal de l’Ordovicien terminal et les modalités de mise en place de la glaciation sont encore aujourd’hui débattus, et les relations entre changement climatique global et extinction de masse restent donc encore peu contraintes.
+
+Nous proposons ici de jeter un éclairage nouveau sur les changements climatiques de l’Ordovicien terminal à l’aide de simulations paléoclimatiques réalisées avec le modèle de climat récent IPSL CM5A2. Ces simulations, qui intègrent les toutes dernières innovations en termes de modélisation du climat, permettront notamment de mieux comprendre la réponse du climat de l’Ordovicien à une chute de la concentration en gas à effet de serre. Elles permettront de quantifier l’impact de ce refroidissement climatique global sur l’oxygénation des océans, avec d’importantes répercussions pour la compréhension des processus ayant mené à l’extinction de masse. Ce sujet de stage sera aussi l’occasion, de manière plus générale, d’étudier le comportement du système climatique à une époque où la configuration des continents et la température globale étaient bien différents d’aujourd’hui (Fig. 1).
+
+Les simulations climatiques, qui nécessitent plusieurs mois de calculs, ont déjà été réalisées. Le stagiaire réalisera l’analyse des résultats, qu’il s’agira de discuter aux vues des travaux précédents. Le stage se déroulera à l’Université de Bourgogne à Dijon (laboratoire Biogéosciences) ou au CEREGE à Aix en Provence, et sera encadré par Yannick Donnadieu (CEREGE) et Alexandre Pohl (Biogéosciences).
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Contacts :
+Yannick Donnadieu – donnadieu@cerege.fr
+Alexandre Pohl – alexandre.pohl@u-bourgogne.fr
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
+
+
