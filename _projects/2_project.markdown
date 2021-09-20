@@ -1,78 +1,20 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: Antarctica Remote Control
+description: Master internship 2022
+img: /assets/img/Antarctica-IS-Ladant2014.png
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/OF_40Ma_AHS_WORLD_Model_MullerTurgaiClose.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Paleogeographic reconstruction at 40 Ma from Poblete et al. (2021, ESR)
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
+Les premiers enregistrements de la mise en place de la calotte glaciaire Antarctique datent de la fin de l’Eocène avec des événements précurseurs annonciateurs de la phase majeure survenue à la transition Eocène Oligocène, e.g. 34 Ma, où la majeure partie de l’Antarctique de l’Est s’englace. L’histoire de la calotte polaire antarctique est alors marquée par des avancées et des retraits importants s’étalant tout au long de l’Oligocène. C’est après 15 Ma que la calotte Antarctique semble se stabiliser définitivement. De nombreuses études paléo-environnementales utilisent ces événements d’avancée de la calotte polaire Antarctique pour expliquer des signaux qui sont parfois distants du continent polaire avec des influences proposées sur le continent asiatique et dans l’océan Indien. Pourtant, force est de constater que les simulations climatiques de l’effet de l’englacement Antarctique montrent une influence conscrite à l’océan Austral et peinent à expliquer des téléconnections expliquant des changements aussi distants que ceux suggérés dans la littérature. Une solution possible pour réconcilier modèles et données est de prendre en compte également les changements du niveau marin induits par les oscillations de volume de la calotte Antarctique survenants tout au long des 20 Ma séparant la transition Eocène Oligocène du milieu du Miocène. Ces changements qui peuvent paraitre mineurs au premier abord, e.g. 20 à 40 m, pourraient en fait avoir eu des répercussions dans plusieurs zones du monde où d’immense mer épicontinentale existaient telles que celles couvrant l’Europe, de la France à l’Oural (passage de Turgai), ou encore le Nord de l’Amérique du Sud. Les premières simulations réalisées pour la période de la fin de l’Eocène montrent un impact majeur sur le pourtour Terre-Océan si on considère des faibles profondeurs pour ces surfaces marines qui passent alors à l’air libre pour des faibles variations du niveau marin. L’objectif du stage sera de questionner l’intérêt de cette hypothèse suggérant que l’effet de la calotte de glace Antarctique ne serait pas direct mais plutôt lié au changement de la partition Terre Océan particulièrement sensible durant cette période du fait des grandes surfaces à faible profondeur d’eau recouvrant l’Europe et l’Asie. A l’aide des simulations existantes mais également avec de nouvelles simulations, et à partir d’un travail bibliographique permettant de cibler les périodes clefs où l’effet de l’englacement de l’Antarctique est cité, nous étudierons les téléconnections à l’œuvre et les mécanismes physiques sous jacents. Les impacts sur la saisonnalité des moyennes latitudes mais également sur la dynamique atmosphérique et la structure des Westerlies seront quantifiés. Une attention particulière sera également portée aux rétroactions sur la circulation océanique. L’objet de ce stage pour le/la candidat.e sera donc de se former à l’analyse de simulations climatiques et de proposer un cadre d’interprétation basé sur les processus aux données paléoenvironnementales existantes.
