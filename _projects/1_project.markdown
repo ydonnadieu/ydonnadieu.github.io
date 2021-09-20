@@ -9,7 +9,7 @@ category: work
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="Model ouputs"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/SST-30X-2X-Ordovicien.png' | relative_url }}" alt="" title="Model ouputs"/>
     </div>
 </div>
 <div class="caption">
