@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Cenozoic AMOC history and the marine carbon cycle
-description: PhD project
+description: 2021-2022
 img: /assets/img/7.jpg
 importance: 3
-category: work
+category: MasterPhD
 ---
 Évolution de la circulation océanique au cours des derniers 55 Ma vue par le modèle Système Terre de l’IPSL
 
