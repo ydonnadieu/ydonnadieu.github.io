@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Climates of the Early Paleozoic
-description: Master internship 2022
+description: 2021-2022
 img: /assets/img/OrdoNEMOGrid.png
 importance: 1
-category: work
+category: MasterPhD
 ---
 
 <div class="row">
