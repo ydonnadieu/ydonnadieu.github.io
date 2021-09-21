@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description:  Research internships and cool PhD projects.
+title: Opportunities
+permalink: /Opportunities/
+description:  If you are passionate about paleoclimates and the functioning of our planet in general, and if you are good with computers and new technologies, do not hesitate to contact us. You will find below some examples of research topics adaptable to Master 2 or PhD thesis with available funding. 
 nav: true
-display_categories: [work, others]
+display_categories: [MasterPhD, Postdoc]
 horizontal: false
 ---
 <div class="projects">
