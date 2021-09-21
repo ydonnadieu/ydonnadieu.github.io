@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Antarctica Remote Control
-description: Master internship 2022
+description: 2021-2022
 img: /assets/img/Antarctica-IS-Ladant2014.png
 importance: 2
-category: work
+category: MasterPhD
 ---
 
 <div class="row">
