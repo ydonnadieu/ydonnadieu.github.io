@@ -10,11 +10,11 @@ nav: true
 
 <p>&nbsp;</p>
 
-##### `2011`
+##### `2012`
 
-__[35]__ S. Arndt, P. Regnier, Y. Goddéris and __Y. Donnadieu__, GEOCLIM reloaded (v 1.0): a new coupled earth system model for past climate change, Geoscientific Model Development, 4, 451-481, 2011.
+__[35]__ *A.-C. Chaboureau*, __Y. Donnadieu__, P. Sepulchre, C. Robin, F. Guillocheau and S. Rohais, The Aptian evaporates of the South Atlantic: a climatic paradox ?, Climate of the Past, 8, 1047-1058, 2012.
 
-__[34]__ +V. Lefebvre, __Y. Donnadieu__, P. Sepulchre, D. Swingedouw and Z. Zhang, Deciphering the role of southern gateways and carbon dioxide on the onset of the Antarctic Circumpolar Current, Paleoceanography, 27, PA4201, doi:10.1029/2012PA002345, 2012.
+__[34]__ V. Lefebvre, __Y. Donnadieu__, P. Sepulchre, D. Swingedouw and Z. Zhang, Deciphering the role of southern gateways and carbon dioxide on the onset of the Antarctic Circumpolar Current, Paleoceanography, 27, PA4201, doi:10.1029/2012PA002345, 2012.
 
 __[33]__ Y. Goddéris, __Y. Donnadieu__, V. Lefebvre, G. Le Hir and E. Nardin, Tectonic control of continental weathering, atmospheric CO2, and climate over Phanerozoic times, C.R. Géosciences, 344, 652-662, 2012.
 
