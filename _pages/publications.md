@@ -10,6 +10,56 @@ nav: true
 
 <p>&nbsp;</p>
 
+##### `2018`
+
+__[72]__ Baroni IR, Pohl A., van Helmond NAGM, Papadomanolaki NM, Coe AL, Cohen AS, van de Schootbrugge B, __Donnadieu Y__ and C Slomp, 2018, Ocean Circulation in the Toarcian (Early Jurassic): A Key Control on Deoxygenation and Carbon Burial on the European Shelf, vol. 33, 994-1012, Paleoceanography and Paleoclimatology.
+
+__[71]__ Hearing TW, Harvey THP, Williams M., Leng MJ., Lamb AL., Wilby PR., Gabbott SE., Pohl A. and __Donnadieu Y.__, 2018, An early Cambrian greenhouse climate, Science Advances, vol. 4, doi.: 10.1126/sciadv.aar5690.
+
+__[70]__ +Pohl A., Harper DA, __Donnadieu Y.__, Le Hir G., Nardin E. and Servais T., 2018, Possible patterns of marine primary productivity during the Great Ordovician Biodiversification Event, Lethaia, 51, 187-197.
+
+__[69]__ +Ladant JB, __Donnadieu Y.__, Bopp L., Lear CH. and Wilson PA., 2018, Meridional contrasts in productivity changes driven by the opening of Drake Passage, Paleoceanography and Paleoclimatology, 33, 302-317.
+
+__[68]__ *P. Maffre*, J.-B. Ladant, __Y. Donnadieu__, P. Sepulchre and Y. Goddéris, 2018, The influence of orography on modern ocean circulation, Climate Dynamics, 50, 1277-1289.
+
+<p>&nbsp;</p>
+
+##### `2017`
+
+__[67]__ Hoffman P.F. et al., 2017, Snowball Earth climate dynamics and Cryogenian geology-geobiology, Science Advances, doi.: 10.1126/sciadv.1600983.
+
+__[66]__ Y. Goddéris, __Y. Donnadieu__, S. Carretier, G. Dera, M. Aretz and M. Macouin, Onset and ending of the late Palaeozoic ice age triggered by tectonically paced rock weathering, Nature Geoscience, 10, doi.: 10.1038/NGEO2931.
+
+__[65]__ *Pohl A.*, __Donnadieu Y.__, Le Hir G. and Ferreira D., 2017, The climatic significance of the Late Ordovician-early Silurian black shales, Paleoceanography, 32, 397-423.
+
+__[64]__ Goddéris Y., Le Hir G., Macouin M., __Donnadieu Y.__, Hubert-Théou L., Dera G., Aretz M., Fluteau F., Li Z-X and Halverson G.P., 2017, Paleogeographic forcing of the strontium isotopic cycle in the Neoproterozoic, 42, 151-162, Gondwana Research.
+
+__[63]__ van Der Meer D.G., van den Berg A.P.H., van Hinsbergen D.J.J., van de Weg R.M.B., Godderis Y, Le Hir G and __Y. Donnadieu__, 2017, Reconstructing first-order changes in sea level during the Phanerozoic and Neoproterozoic using strontium isotopes, Gondwana Research, 44, 22-34.
+
+__[62]__ Lunt, D. J., Huber, M., Baatsen, M. L. J., Caballero, R., DeConto, R., __Donnadieu, Y.__, Evans, D., Feng, R., Foster, G., Gasson, E., von der Heydt, A. S., Hollis, C. J., Kirtland Turner, S., Korty, R. L., Kozdon, R., Krishnan, S., Ladant, J.-B., Langebroek, P., Lear, C. H., LeGrande, A. N., Littler, K., Markwick, P., Otto-Bliesner, B., Pearson, P., Poulsen, C., Salzmann, U., Shields, C., Snell, K., Starz, M., Super, J., Tabour, C., Tierney, J., Tourte, G. J. L., Upchurch, G. R., Wade, B., Wing, S. L., Winguth, A. M. E., Wright, N., Zachos, J. C., and Zeebe, R.: DeepMIP: experimental design for model simulations of the EECO, PETM, and pre-PETM, Geosci. Model Dev., in press.
+
+
+<p>&nbsp;</p>
+
+##### `2016`
+
+__[61]__ *Pohl A.*, Nardin E., Vandenbroucke, T.R.A. and __Y. Donnadieu__, 2016, High dependence of Ordovician ocean surface circulation on atmospheric CO2 levels, 458, 39-51, Paleogeography, Paleoclimatology, Paleoecology.
+
+__[60]__ *J.B. Ladant* and __Y. Donnadieu__, 2016, Paleogeographic-climate feedbacks evidence against glacial events during the Cretaceous Supergreenhouse, 7: 12771, doi:10.1038/ncomms12771, Nature Communications.
+
+__[59]__ *S. Botsyun*, P. Sepulchre, C. Risi and __Y. Donnadieu__, 2016, Spatial patterns of isotopic lapse rates over Tibetan Plateau and Himalayas: consequences for paleoaltimetry estimates, vol. 12, 1401-1420, Climate of the Past.
+
+__[58]__ *A. Pohl*, __Y. Donnadieu__, J.B. Ladant, G. Le Hir, C. Dumas and T.R.A. Vandenbroucke, 2016, Glacial onset predated Late Ordovician climate cooling, vol.31, Paleoceanography.
+
+__[57]__ P. Porada, T.M. Lenton, *A. Pohl*, B. Weber, L. Mander, __Y. Donnadieu__, C. Beer, U. Pöschl and A. Kleidon, 2016, Strong weathering and climate effects of early lichens and bryophytes in the Late Ordovician, 7:12113, doi:10.1038/ncomms12113, Nature Communications.
+
+__[56]__ *G. Paris*, __Y. Donnadieu__, V. Beaumont, Y. Goddéris and F. Fluteau, 2016, Geochemical consequences of intense pulse-like degassing during the onset of the Central Atlantic Magmatic Province, vol. 441, 74-82, Paleogeography, Paleoclimatology, Paleoecology.
+
+__[55]__ __Y. Donnadieu__, E. Pucéat, M. Moiroud, F. Guillocheau and J.-F. Deconinck, 2016, A better-ventilated ocean triggered by Late Cretaceous changes in continental configuration, 7:10316, doi:10.1038/ncomms10316, Nature Communications.
+
+
+<p>&nbsp;</p>
+
 ##### `2015`
 
 __[54]__ *M. Moiroud*, E. Pucéat, __Y. Donnadieu__, G. Bayon, M. Guiraud, S. Voigt, J.-F. Deconinck and F. Monna, Evolution of neodymium isotopic signature of seawater during the Late Cretaceous: implications for intermediate and deep circulation, 2015, Gondwana Research. doi :10.1016/j.gr.2015.08.005.
