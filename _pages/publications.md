@@ -10,7 +10,59 @@ nav: true
 
 <p>&nbsp;</p>
 
+##### `2015`
+
+__[54]__ *M. Moiroud*, E. Pucéat, __Y. Donnadieu__, G. Bayon, M. Guiraud, S. Voigt, J.-F. Deconinck and F. Monna, Evolution of neodymium isotopic signature of seawater during the Late Cretaceous: implications for intermediate and deep circulation, 2015, Gondwana Research. doi :10.1016/j.gr.2015.08.005.
+
+__[53]__ G. Hoareau, +B. Bomou, D.J.J. van Hinsbergen, N. Carry, D. Marquer, __Y. Donnadieu__, G. Le Hir, B. Vrielynk and A-V Walter-Simonnet, 2015, Did high Neo-Tethys subduction rates contribute to the Early Eocene Climatic Optimum? 11, 1751-1767, Climate of the Past.
+
+__[52]__ D.I. Benn, G. Le Hir, H. Bao, __Y. Donnadieu__, C. Dumas, E.J. Fleming, M.J. Hambrey, E.A. McMillan, M.S. Petronis, G. Ramstein, C.T.E. Stevenson, P.M. Wynn, I.J. Fairchild, Orbitally forced ice sheet fluctuations during the Marinoan Snowball Earth glaciation, 2015, 8, 704-707, Nature Geoscience.
+
+
+<p>&nbsp;</p>
+
+##### `2014`
+
+__[51]__ D. Paillard and __Y. Donnadieu__, A 100-million year history of the carbon cycle based on the 400-kyr cycle in marine 13C benthic records, Paleoceanography, 29, 1249-1255, doi: 10.1002/2014PA002693.
+
+__[50]__ *A. Pohl*, __Y. Donnadieu__, G. Le Hir, J.-F. Buoncristiani and E. Vennin, 2014, Effect of the Ordovician paleogeography on the (in)stability of the climate, 10, 2053-2066, Climate of the Past.
+
+__[49]__ *J.-B. Ladant*, __Y. Donnadieu__ and C. Dumas, 2014, Links between CO2, glaciation and water flow: reconciling the Cenozoic history of the Antarctic Circumpolar Current, 10, 1957-1966, Climate of the Past.
+
+__[48]__ +A.-C. Chaboureau, P. Sepulchre, __Y. Donnadieu__ and A. Franc, Tectonic-driven climate change and the rise of Angiosperms, 14066- 14070, vol. 111, PNAS.
+
+__[47]__ *J.-B. Ladant*, __Y. Donnadieu__, V. Lefebvre and C. Dumas, The respective role of atmospheric carbon dioxide and orbital parameters on ice sheet evolution at the Eocene-Oligocene transition, 10.1002/2013PA002593, Paleoceanography.
+
+__[46]__ A. Licht, M. van Cappellec, H. A. Abels, J.B. Ladant, J. Trabucho Alexandre, C. France-Lanord, __Y. Donnadieu__, J. Vandenberghe, T. Rigaudier, C. Lécuyer, D. Terry, R. Adriaens, A. Boura, Aung Naing Soe, G. Dupont-Nivet, J.-J. Jaeger, Asian monsoons in the Eocene greenhouse world, 501-506, 513, Nature.
+
+__[45]__ D. T. Royer, __Y. Donnadieu__, S. Ewall, J. Park, J. Brown-Kowalczyk and Y. Goddéris, Error analysis of CO2 and O2 estimates from the long-term geochemical model GEOCARBSULF, American Journal of Science, 314, 1259-1283, American Journal of Science.
+
+__[44]__ Y. Teitler, G. Le Hir, F. Fluteau, __Y. Donnadieu__ and P. Philippot, Investigating the Paleoproterozoic glaciations with 3-D climate modelling, Earth and Planetary Science Letters, 395, 71-80, 2014.
+
+__[43]__ Y. Goddéris, __Y. Donnadieu__, G. Le Hir, V. Lefebvre, and E. Nardin, The role of paleogeography in the Phanerozoic history of atmospheric CO2 and climate, Earth Science Reviews, 128, 122-138, 2014.
+
+__[42]__ P. Sepulchre, T. Arsouze, __Y. Donnadieu__, J.-C. Dutay, C. Jaramillo, J. Le Bras, E. Martin, C. Montes and A. J. Waite, Modelling the consequences of Central American Seaway shoaling on Caribbean water masses and epsilon-Neodymium, Paleoceanography, doi:10.1002/2013PA002501, 2014.
+
+__[41]__ G. Le Hir, Y. Teitler, F. Fluteau, __Y. Donnadieu__ and P. Philippot, The faint young Sun problem revisited with a 3-D climate-carbon model – Part 1,
+Climate of the Past, 10, 697-713, 2014
+
+<p>&nbsp;</p>
+
+##### `2013`
+
+__[40]__ +V. Lefebvre, __Y. Donnadieu__, Y. Goddéris, F. Fluteau and L. Hubert-Théou, Was the Antarctic glaciation delayed by a high degassing rate during the early Cenozoic ?, Earth and Planetary Science Letters, 371-372, 203-211, 2013.
+
+__[39]__ *M. Moiroud*, E. Pucéat, __Y. Donnadieu__, G. Bayon, K. Moriya, J.-F. Deconinck and M. Boyet, Evolution of the neodymium isotopic signature of neritic seawater on a northwestern Pacific margin: new constrains on possible end-members for the composition of deep-water masses in the Late Cretaceous ocean, Chemical Geology, 356, 160-170, 2013.
+
+<p>&nbsp;</p>
+
 ##### `2012`
+
+__[38]__ E. Beaulieu, Y. Goddéris, __Y. Donnadieu__, D. Labat and C. Roelandt, High sensitivity of the continental-weathering carbon dioxide sink to future climate change, Nature Climate Change, 2, 346-349, 2012.
+
+__[37]__ +G. Dera and __Y. Donnadieu__, Modelling evidences for global warming, Arctic seawater freshening, and sluggish oceanic circulation during the Early Toarcian anoxic event, Paleoceanography, 27, PA2211, doi:10.1029/2012PA002283, 2012.
+
+__[36]__ *N. Hamon*, P. Sepulchre, __Y. Donnadieu__, A.-J. Henrot, L. Francois, J.-J. Jaeger and G. Ramstein, Growth of subtropical forest in Miocene Europe: The roles of carbon dioxide and Antarctic ice volume, Geology, 40, 567-570, 2012. 
 
 __[35]__ *A.-C. Chaboureau*, __Y. Donnadieu__, P. Sepulchre, C. Robin, F. Guillocheau and S. Rohais, The Aptian evaporates of the South Atlantic: a climatic paradox ?, Climate of the Past, 8, 1047-1058, 2012.
 
