@@ -10,6 +10,25 @@ nav: true
 
 <p>&nbsp;</p>
 
+##### `2019`
+
+__[79]__ Ramstein G., Godderis Y., Donnadieu Y., Sepulchre P., Fluteau F., Zhang Z., Zhang R., Su B., Jiang D., Schuster M.,  and Besse J., 2019, Some Illustrations of Large Tectonically Driven Climate Changes in Earth History, vol. 38, 4454-4464, Tectonics 
+
+__[78]__ *Botsyun S.*, Sepulchre P., __Donnadieu Y.__, Risi C., Licht A. and J. Caves, Response to Comment on "Revised paleoaltimetry data show low Tibetan Plateau elevation during the Eocene", vol. 365,  doi:10.1126/science.aax8990, Science
+
+__[77]__ Remmelzwaal SRC, Dixon S., Parkinson IJ, Schmidt DN, Monteiro FM, Sexton P., Fehr MA, Peacock C., __Donnadieu Y.__ and James RH, 2019, Investigating Ocean Deoxygenation During the PETM Through the Cr Isotopic Signature of Foraminifera, vol. 34, 917-929, doi:10.1029/2018PA003372, Paleoceanography and Paleoclimatology
+
+__[76]__ Michel J., Laugié M., Pohl A., Lanteaume C., Borgomano J. and __Y. Donnadieu__, 2019, Marine carbonate factories: a global model of carbonate platform distribution, 1-20, International Journal of Earth Sciences. 
+
+__[75]__ *Botsyun S.*, Sepulchre P., __Donnadieu Y.__, Risi C., Licht A. and J. Caves, Revised paleoaltimetry data show low Tibetan Plateau elevation during the Eocene, 2019, vol. 363, doi:10.1126/science.aaq1436, Science.
+
+__[74]__ Godderis Y and __Y Donnadieu__, 2019, A sink- or a source-driven carbon cycle at the geological timescale? Relative importance of palaeogeography versus solid Earth degassing rate in the Phanerozoic climatic evolution, vol. 156, p.355-365, Geological Magazine. 
+
+__[73]__ +Pohl A., Laugié M., Borgomano J., Michel J., Lanteaume C., Scotese C.R., Frau C., Poli E. and __Y. Donnadieu__, 2019 Quantifying the paleogeographic driver of Cretaceous carbonate platform development using paleoecological niche modeling, vol. 514, 222-232, P-cubed.
+
+
+<p>&nbsp;</p>
+
 ##### `2018`
 
 __[72]__ Baroni IR, Pohl A., van Helmond NAGM, Papadomanolaki NM, Coe AL, Cohen AS, van de Schootbrugge B, __Donnadieu Y__ and C Slomp, 2018, Ocean Circulation in the Toarcian (Early Jurassic): A Key Control on Deoxygenation and Carbon Burial on the European Shelf, vol. 33, 994-1012, Paleoceanography and Paleoclimatology.
