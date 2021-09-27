@@ -6,31 +6,38 @@ description: CV
 nav: true
 ---
 
-## Research Positions
+## Positions and Education
 
-###### `2022– ???` __(upcoming position)__ Permanent (CNRS) researcher, Biogéosciences, University of Burgundy, Dijon, France.
+###### `2017–    ` Research director CNRS (eq. Professor), __CEREGE__, AMU, Aix en Provence, France.
 
-###### `2021–2022` Marie Curie postdoctoral researcher, paleoclimate modeling, Biogéosciences, University of Burgundy, Dijon, France.
-- __Project [1 year]__: <i>[BioSIGNAL: Biological pump sensitivity and climate change – Interrogating past environmental perturbations.](https://alexpohl.github.io/BioSIGNAL/){:target="\_blank"}</i> Modeling changes in deep-time marine planktonic communities and their impact on ocean biogeochemistry, with special focus on ocean oxygenation / anoxia.
+###### `2013`     *Habilitation à Diriger des Recherches*, HDR, __UVSQ__
 
-###### `2019–2021` Marie Curie postdoctoral researcher, paleoclimate modeling, University of California Riverside, CA, USA.
-- __Project [2 years]__: <i>[BioSIGNAL: Biological pump sensitivity and climate change – Interrogating past environmental perturbations.](https://alexpohl.github.io/BioSIGNAL/){:target="\_blank"}</i> Modeling changes in deep-time marine planktonic communities and their impact on ocean biogeochemistry, with special focus on ocean oxygenation / anoxia.
+###### `2004–    ` Permanent CNRS researcher (eq. Lecturer), __LSCE__
 
-###### `2017–2019` Postdoctoral researcher, paleoclimate modeling, Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE), Aix en Provence, France.
-- __Project [2 years]__: <i>Investigating and quantifying the impact of the paleogeographical changes on the potential for reef-carbonate development throughout the Cretaceous.</i>
+###### `2003–2004` Postdoctoral researcher supervised by Raymond PIERREHUMBERT, paleoclimate modeling, __University of Chicago__, USA.
 
-###### `2013–2016` Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.
-- __Project [3 years]__: <i>Numerical modeling for increased understanding of Ordovician climate.</i> Supervisors: Yannick DONNADIEU (LSCE) and Guillaume LE HIR (IPGP).
+###### `2000–2003` Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.
+- __Project [3 years]__: <i>Numerical modeling of Neoproterozoic glaciations.</i> Supervisors: Gilles RAMSTEIN (LSCE).
+
+###### `1997–2000` M.S. in Earth Sciences, *Ecole Normale Supérieure de Lyon*
+
+
+
 - __Award__: Van Straelen Prize from the French Geological Society (SGF).
 - __Award__: André Prud’homme Prize from the Meteo and Climate Association.
 
 <p>&nbsp;</p>
 
-## Research Programs
+## Past and on-going grants
 
-- `2019`  __Marie Curie Global Fellowship (European project)__: “Biological pump sensitivity and climate change: interrogating past environmental perturbations (BioSIGNAL)“ [PI].
-- `2015`  __French National Programm (INSU-CNRS)__: “Response of global marine biodiversity to a major climate change: modeling the Ordovician glaciation (445 Ma) with the MITgcm and its marine ecology model Darwin.“ [partner, significantly contributed to the design and writting of the project] (PI: Y Donnadieu).
-- `2014` __French National Programm (INSU-CNRS)__: “Ordovician microfossils and environment : did the Early Ordovician onset of cooling of the Early Palaeozoic Icehouse trigger the most important rise in biodiversity in the history of life on Earth?“ [partner] (PI: TRA Vandenbroucke).
+- `2018-22`  __ANR Collaborative__: “Oxymore Oxygen Isotope ratios of Mesozoic Oceans Revisited“ (PI: G. Suan, Lyon Univ).
+- `2016-21`  __ANR Collaborative__: “AMOR Data Model Reconstruction of the Cenozoic Climate : A Focus on two Key Events, the Eocene Oligocene Transition and the Middle Miocene Climate Transition“ (PI: Y.Donnadieu).
+- `2015-20`  __ERC Consolidator Grant__: “MAGIC Monsoons in Asia caused Greenhouse to Icehouse Cooling“ (PI: G. Dupont-Nivet, Rennes Univ).
+- `2013-16`  __European Training Network FP7__: “iTECC Investigating Tectonisms-Erosion-Climate-Couplings“ (PI: J. Wijbran, VU Amsterdam).
+- `2012-16`  __ANR Collaborative__: “Anox-SEA Role of continental configuration in the development of worldwide ANOXia in SEAwate“ (PI: E. Puceat, Burgundy Univ).
+- `2009-13`  __ANR: *The Sixth extinction*__: “PhyloSpace Phylogenies and historical biogeography“ (PI: A. Franc, INRA).
+- `2009-12`  __ANR Starting__: “COLORS Icehouse-Greenhouse Transition: Lessons from Deep-Time Ice Ages“ (PI: Y Donnadieu).
+
 
 <p>&nbsp;</p>
 
