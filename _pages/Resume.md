@@ -8,11 +8,11 @@ nav: true
 
 ## Positions and Education
 
-###### `2017–    ` Research director CNRS (eq. Professor), __CEREGE__, AMU, Aix en Provence, France.
+###### `2017–   -` Research director CNRS (eq. Professor), __CEREGE__, AMU, Aix en Provence, France.
 
-###### `2013`     *Habilitation à Diriger des Recherches*, HDR, __UVSQ__
+###### `2013-   -`     *Habilitation à Diriger des Recherches*, HDR, __UVSQ__
 
-###### `2004–    ` Permanent CNRS researcher (eq. Lecturer), __LSCE__
+###### `2004–   -` Permanent CNRS researcher (eq. Lecturer), __LSCE__
 
 ###### `2003–2004` Postdoctoral researcher supervised by Raymond PIERREHUMBERT, paleoclimate modeling, __University of Chicago__, USA.
 
@@ -43,9 +43,14 @@ nav: true
 
 ## Supervision
 
-- __Thanh Nam NGO, 2nd year__ (Polytech Orléans), “Simulating marine biodiversity using a coupled climate-biodiversity model”. Principal adviser. Co-adviser: A. Brayard. Duration: 1 month.
-- __Houda BEGHOURA, M.Sc. 1st year__ (Aix-Marseille University), “Impact of the growth of the Ordovician ice sheet on the atmospheric circulation and the carbon cycle”. Principal adviser. Co-adviser: Y. Donnadieu. Duration: 2 months.
-- __Mourad HAGGUI, M.Sc. 2nd year__ (Aix-Marseille University), “Coupling paleontological database and paleoceanographical modeling to investigate the paleobiogeography of Cretaceous reef carbonates”. Co-adviser. Principal advisor: J. Borgomano. Duration: 5 months.
+- __Toumoulin A.__ (AMU), “Evaluating the impact of Eocene gateways on ocean dynamics and on primary productivity using the IPSL Earth System model ”. Main Director. Funding: ERC MAGIC.
+- __Laugie M.__ (AMU), “Modelling Ocean Circulation and Primary Productivity from the Aptian to the Maastrichtian: What Potential Sources of Information for Oil Exploration? ”. Main Director.  Co-supervisor: L. Bopp. Funding: Total projects.
+- __Tardif D.__ (Sorbonne Univ), “Climatic evolution and Asiatic paleogeography across the Cenozoic: impacts on monsoons and biodiversity at various scales ”. Co-supervising with F. Fluteau and G. Le Hir. Funding: IPGP doctoral school.
+- __Botsyun S.__ (UVSQ), “Modelling the impact of Himalayan and Tibetan tectonic evolution on climate and stable Cenozoic oxygen isotopes ”. Main Director. Co-supervisor: P. Sepulchre. Funding: ETN iTECC.
+- __Pohl A. [now researcher at CNRS - Biogéosciences]__ (UVSQ), “Understanding the Ordovician climate through numerical modelling ”. Main Director. Co-supervisor: G. Le Hir Funding: CEA.
+- __Ladant J.-B. [now researcher at CNRS - LSCE]__ (UVSQ), “Climate Ice Sheet Interactions during the Cretaceous-Paleogene greenhouse (120-34 Ma): influence of paleogeography and atmospheric CO2 ”. Main Director. Funding: CEA.
+- __Moiroud Mathieu__ (Burundy University), “Evolution of the deep ocean circulation during the Cretaceous: contribution of neodymium isotopes ”. Co-supervising with E. Puceat. Funding: CEA / University.
+- __Chaboureau A.-C. [now Geologist at Total]__ (Rennes University), “Impact of climate and tectonics on the dynamics of sedimentary systems during the opening of the South Atlantic Ocean ”. Co-supervising with C. Robin. Funding: IFP Env.
 
 <p>&nbsp;</p>
 
