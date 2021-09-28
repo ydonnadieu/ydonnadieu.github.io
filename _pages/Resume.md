@@ -18,7 +18,7 @@ nav: true
 ###### `2003–2004` Postdoctoral researcher supervised by Raymond PIERREHUMBERT, paleoclimate modeling, __University of Chicago__, USA.
 
 ###### `2000–2003` Ph.D. in paleoclimate modeling, Laboratoire des Sciences du climat et de l’Environnement (LSCE), Paris, France.
-- __Project [3 years]__: <i>Numerical modeling of Neoproterozoic glaciations.</i> Supervisors: Gilles RAMSTEIN (LSCE).
+- __Numerical modeling of Neoproterozoic glaciations.__ Supervisors: Gilles RAMSTEIN (LSCE).
 
 ###### `1997–2000` M.S. in Earth Sciences, *Ecole Normale Supérieure de Lyon*
 
@@ -41,15 +41,15 @@ nav: true
 ## PHDs Supervision
 
 
-- __Pillot Q.__ (AMU), “Understanding the biogenic bloom (9-4 Ma) and its links with cenozoic late uplift and marine gateways ”. Co-supervised with B. Sucheras. Funding: Starting ANR to B.S.
-- __Toumoulin A.__ (AMU), “Evaluating the impact of Eocene gateways on ocean dynamics and on primary productivity using the IPSL Earth System model ”. Main Director. Funding: ERC MAGIC.
-- __Laugie M.__ (AMU), “Modelling Ocean Circulation and Primary Productivity from the Aptian to the Maastrichtian: What Potential Sources of Information for Oil Exploration? ”. Main Director.  Co-supervisor: L. Bopp. Funding: Total projects.
-- __Tardif D.__ (Sorbonne Univ), “Climatic evolution and Asiatic paleogeography across the Cenozoic: impacts on monsoons and biodiversity at various scales ”. Co-supervising with F. Fluteau and G. Le Hir. Funding: IPGP doctoral school.
-- __Botsyun S.__ (UVSQ), “Modelling the impact of Himalayan and Tibetan tectonic evolution on climate and stable Cenozoic oxygen isotopes ”. Main Director. Co-supervisor: P. Sepulchre. Funding: ETN iTECC.
-- __Pohl A. [now researcher at CNRS - Biogéosciences]__ (UVSQ), “Understanding the Ordovician climate through numerical modelling ”. Main Director. Co-supervisor: G. Le Hir Funding: CEA.
-- __Ladant J.-B. [now researcher at CNRS - LSCE]__ (UVSQ), “Climate Ice Sheet Interactions during the Cretaceous-Paleogene greenhouse (120-34 Ma): influence of paleogeography and atmospheric CO2 ”. Main Director. Funding: CEA.
-- __Moiroud Mathieu__ (Burundy University), “Evolution of the deep ocean circulation during the Cretaceous: contribution of neodymium isotopes ”. Co-supervising with E. Puceat. Funding: CEA / University.
-- __Chaboureau A.-C. [now Geologist at Total]__ (Rennes University), “Impact of climate and tectonics on the dynamics of sedimentary systems during the opening of the South Atlantic Ocean ”. Co-supervising with C. Robin. Funding: IFP Env.
+- `2020-23` __Pillot Q.__ (AMU), “Understanding the biogenic bloom (9-4 Ma) and its links with cenozoic late uplift and marine gateways ”. Co-supervised with B. Sucheras. Funding: Starting ANR to B.S.
+- `2017-20` __Toumoulin A.__ (AMU), “Evaluating the impact of Eocene gateways on ocean dynamics and on primary productivity using the IPSL Earth System model ”. Main Director. Funding: ERC MAGIC.
+- `2018-21` __Laugie M.__ (AMU), “Modelling Ocean Circulation and Primary Productivity from the Aptian to the Maastrichtian: What Potential Sources of Information for Oil Exploration? ”. Main Director.  Co-supervisor: L. Bopp. Funding: Total projects.
+- `2017-20` __Tardif D.__ (Sorbonne Univ), “Climatic evolution and Asiatic paleogeography across the Cenozoic: impacts on monsoons and biodiversity at various scales ”. Co-supervising with F. Fluteau and G. Le Hir. Funding: IPGP doctoral school.
+- `2013-16` __Botsyun S.__ (UVSQ), “Modelling the impact of Himalayan and Tibetan tectonic evolution on climate and stable Cenozoic oxygen isotopes ”. Main Director. Co-supervisor: P. Sepulchre. Funding: ETN iTECC.
+- `2013-16` __Pohl A. [now researcher at CNRS - Biogéosciences]__ (UVSQ), “Understanding the Ordovician climate through numerical modelling ”. Main Director. Co-supervisor: G. Le Hir Funding: CEA.
+- `2012-15` __Ladant J.-B. [now researcher at CNRS - LSCE]__ (UVSQ), “Climate Ice Sheet Interactions during the Cretaceous-Paleogene greenhouse (120-34 Ma): influence of paleogeography and atmospheric CO2 ”. Main Director. Funding: CEA.
+- `2010-13` __Moiroud Mathieu__ (Burundy University), “Evolution of the deep ocean circulation during the Cretaceous: contribution of neodymium isotopes ”. Co-supervising with E. Puceat. Funding: CEA / University.
+- `2009-12` __Chaboureau A.-C. [now Geologist at Total]__ (Rennes University), “Impact of climate and tectonics on the dynamics of sedimentary systems during the opening of the South Atlantic Ocean ”. Co-supervising with C. Robin. Funding: IFP Env.
 
 <p>&nbsp;</p>
 
@@ -65,22 +65,3 @@ nav: true
 - `2012-13`  __A.-C. Chaboureau__ funded by *ANR* PhyloSpace
 - `2010-11`  __G. Dera__ funded by *ANR* PhyloSpace
 - `2010-13`  __V. Lefebvre__ funded by *ANR* COLORS
-
-<p>&nbsp;</p>
-
-<h2>Review activity</h2>
-
-<ul>
-<li>Paleoceanography</li>
-<li>Palaeogeography, Palaeoclimatology, Palaeoecology</li>
-<li>Nature Geoscience</li>
-<li>The Cryosphere</li>
-<li>Climate of the Past</li>
-<li>Lethaia</li>
-<li>Geology</li>
-<li>Earth Science Reviews</li>
-<li>Geological Magazine</li>
-<li>GSA Bulletin</li>
-<li>Science Advances</li>
-<li>Biogeosciences</li>
-</ul>
