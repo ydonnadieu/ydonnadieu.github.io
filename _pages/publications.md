@@ -10,6 +10,23 @@ nav: true
 
 <p>&nbsp;</p>
 
+##### `2020`
+
+__[85]__ Sepulchre et al., 2020, IPSL-CM5A2-an Earth system model designed for multi-millennial climate simulations, vol. 13, 3011-3053, doi:10.5194/gmd-13-3011-2020, Geoscientific Model Development 
+
+__[84]__ Zhang Y., Huck T., Lique C., __Donnadieu Y.__, Ladant J.-B., Rabineau M. and D. Aslanian, 2020, Early Eocene vigorous ocean overturning and its contribution to a warm Southern Ocean, vol. 16, 1263-1283, doi:10.5194/cp-16-1263-2020, Climate of the Past 
+
+__[83]__ *Laugié M.*, __Donnadieu Y.__, Ladant J.-B., Green M., Bopp L. and F. Raisson, 2020, Stripping back the modern to reveal the Cenomanian-Turonian climate and temperature gradient underneath, vol. 16, 953-971, doi:10.5194/cp-16-953-2020, Climate of the Past
+
+__[82]__ *Toumoulin A.*, __Donnadieu Y.__, Ladant J.-B., Batenburg S., Poblete F. and G. Dupont-Nivet, 2020, Quantifying the Effect of the Drake Passage Opening on the Eocene Ocean, vol.35, doi:10.1029/2020PA003889, Paleoceanography and Paleoclimatology 
+
+__[81]__ *Tardif D.*, Fluteau F., __Donnadieu Y.__, Le Hir G., Ladant J.-B., Licht A., Poblete F., and G. Dupont-Nivet, 2020, The origin of Asian monsoons: a modelling perspective, vol.16, 847-865, doi:10.5194/cp-16-847-2020, Climate of the Past. 
+
+__[80]__ Saupe E., Qiao H., __Donnadieu Y.__, Farnsworth A., Kennedy-Asser A., Ladant J.-B., Lunt D., Pohl A., Valdes P. and S. Finnegan, 2020, Extinction intensity during Ordovician and Cenozoic glaciations explained by cooling and palaeogeography, vol.13, 65-70, doi:10.1038/s41561-019-0504-6, Nature Geoscience. 
+
+
+<p>&nbsp;</p>
+
 ##### `2019`
 
 __[79]__ Ramstein G., Godderis Y., Donnadieu Y., Sepulchre P., Fluteau F., Zhang Z., Zhang R., Su B., Jiang D., Schuster M.,  and Besse J., 2019, Some Illustrations of Large Tectonically Driven Climate Changes in Earth History, vol. 38, 4454-4464, Tectonics 
