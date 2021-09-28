@@ -10,11 +10,27 @@ nav: true
 
 <p>&nbsp;</p>
 
+##### `2021`
+
+__[91]__ *Laugié M.*, __Donnadieu Y.__, Ladant J.-B., Bopp L., Ethe C. and F. Raisson, 2021, Exploring the Impact of Cenomanian Paleogeography and Marine Gateways on Oceanic Oxygen, doi:10.1029/2020PA004202, Paleoceanography and Paleoclimatology
+
+__[90]__ Hearing T.W.W., Pohl A. et al., 2021, Quantitative comparison of geological data and model simulations constrains early Cambrian geography and climate, doi:10.1038/s41467-021-24141-5, Nature Communications 
+
+__[89]__ Burls N.J. et al., 2021, Simulating Miocene Warmth: Insights From an Opportunistic Multi-Model Ensemble (MioMIP1), vol.36, doi:10.1029/2020PA004054, Paleoceanography and Paleoclimatology
+
+__[88]__ Lunt D.J. et al., 2021, DeepMIP: model intercomparison of early Eocene climatic optimum (EECO) large-scale climate features and comparison with proxy data, vol.17, 203-227, doi:10.5194/cp-17-203-2021, Climate of the Past
+
+<p>&nbsp;</p>
+
 ##### `2020`
+
+__[87]__ +Pohl A., __Donnadieu Y.__ et al., 2020, Carbonate platform production during the Cretaceous, 2020, vol.132, 2606-2610, doi:10.1130/B35680.1, Geological Society Of America Bulletin. 
+
+__[86]__ Barbolini N. et al., 2020, Cenozoic evolution of the steppe-desert biome in Central Asia, 2020, vol.6, doi:10.1126/sciadv.abb8227, Science Advances. 
 
 __[85]__ Sepulchre et al., 2020, IPSL-CM5A2-an Earth system model designed for multi-millennial climate simulations, vol. 13, 3011-3053, doi:10.5194/gmd-13-3011-2020, Geoscientific Model Development 
 
-__[84]__ Zhang Y., Huck T., Lique C., __Donnadieu Y.__, Ladant J.-B., Rabineau M. and D. Aslanian, 2020, Early Eocene vigorous ocean overturning and its contribution to a warm Southern Ocean, vol. 16, 1263-1283, doi:10.5194/cp-16-1263-2020, Climate of the Past 
+__[84]__ +Zhang Y., Huck T., Lique C., __Donnadieu Y.__, Ladant J.-B., Rabineau M. and D. Aslanian, 2020, Early Eocene vigorous ocean overturning and its contribution to a warm Southern Ocean, vol. 16, 1263-1283, doi:10.5194/cp-16-1263-2020, Climate of the Past 
 
 __[83]__ *Laugié M.*, __Donnadieu Y.__, Ladant J.-B., Green M., Bopp L. and F. Raisson, 2020, Stripping back the modern to reveal the Cenomanian-Turonian climate and temperature gradient underneath, vol. 16, 953-971, doi:10.5194/cp-16-953-2020, Climate of the Past
 
