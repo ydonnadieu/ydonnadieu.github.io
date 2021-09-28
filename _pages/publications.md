@@ -2,7 +2,7 @@
 layout: smallfont_page
 permalink: /Publications/
 title: Publications
-description: Updated list of written publications
+description: Updated list of written publications (italics for supervised PhDs and + for PostDocs)
 nav: true
 ---
 
