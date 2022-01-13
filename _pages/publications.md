@@ -10,6 +10,16 @@ nav: true
 
 <p>&nbsp;</p>
 
+##### `2022`
+
+__[93]__ Longman J., Mills B.J.W., Donnadieu Y. and Goddéris Y., 2022, Assessing volcanic controls on Miocene climate change. Geophysical Research Letters, 49, e2021GL096519. https://doi.org/10.1029/2021GL096519
+
+__[92]__ Beaufort L., Bolton C.T., Sarr AC., Suchéras-Marx B., Rosenthal Y., Donnadieu Y., Barbarin N., Bova S., Cornuault P., Gally Y., Gray E., Mazur JC. and M. Tetard, 2022, Cyclic evolution of phytoplankton forced by changes in tropical seasonality. Nature 601, 79–84. https://doi.org/10.1038/s41586-021-04195-7
+
+
+
+<p>&nbsp;</p>
+
 ##### `2021`
 
 __[91]__ *Laugié M.*, __Donnadieu Y.__, Ladant J.-B., Bopp L., Ethe C. and F. Raisson, 2021, Exploring the Impact of Cenomanian Paleogeography and Marine Gateways on Oceanic Oxygen, doi:10.1029/2020PA004202, Paleoceanography and Paleoclimatology
