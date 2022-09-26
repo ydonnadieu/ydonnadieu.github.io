@@ -17,5 +17,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a paleoclimatologist with strong skills in Earth System modelling who works at bridging theoretical models with observations and measurements. My work aims to quantify
+I'm a paleoclimatologist, member of the <a href="https://paleoclim-cnrs.github.io/" target="_blank" >French Deep-Time Paleoclimate Modeling Group</a>,  with strong skills in Earth System modelling who works at bridging theoretical models with observations and measurements. My work aims to quantify
 primary and secondary feedbacks occurring within the Earth System. My research has been devoted to improving our understandingof processes controlling atmospheric CO2 concentration at geological timescales and to identify ocean atmosphere interactions occurring on Earth as a result of plate tectonics.
