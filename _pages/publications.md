@@ -12,22 +12,29 @@ nav: true
 
 ##### `2022`
 
-__[94]__ +Sarr AC, __Donnadieu Y.__, Laugie M., Ladant JB, Sucheras-Marx B. and F. Raisson, 2022, Ventilation Changes Drive Orbital-Scale Deoxygenation Trends in the Late Cretaceous Ocean, Geophysical Research Letters, 49, e2022GL099830. https://doi.org/10.1029/2022GL099830
+__[106]__ +Sarr AC, __Donnadieu Y.__, Laugie M., Ladant JB, Sucheras-Marx B. and F. Raisson, 2022, Ventilation Changes Drive Orbital-Scale Deoxygenation Trends in the Late Cretaceous Ocean, Geophysical Research Letters, 49, e2022GL099830. https://doi.org/10.1029/2022GL099830
 
-__[94]__ Martinot C., Bolton CT, Sarr AC, __Donnadieu Y.__, Garcia M., Gray E. and K. Tachikawa, 2022, Drivers of Late Miocene Tropical Sea Surface Cooling: A New Perspective From the Equatorial Indian Ocean, Paleoceanography and Paleoclimatology, 37, e2021PA004407, https://doi.org/10.1029/2021PA004407
+__[105]__ Martinot C., Bolton CT, Sarr AC, __Donnadieu Y.__, Garcia M., Gray E. and K. Tachikawa, 2022, Drivers of Late Miocene Tropical Sea Surface Cooling: A New Perspective From the Equatorial Indian Ocean, Paleoceanography and Paleoclimatology, 37, e2021PA004407, https://doi.org/10.1029/2021PA004407
 
-__[94]__ Zhang ZJ, Zhang ZS, et al., 2022, Impact of Mountains in Southern China on the Eocene Climates of East Asia, J. of Geophys. Res-Atmospheres, e2022JD036510. https://doi.org/10.1029/2022JD036510 
+__[104]__ Zhang ZJ, Zhang ZS, et al., 2022, Impact of Mountains in Southern China on the Eocene Climates of East Asia, J. of Geophys. Res-Atmospheres, e2022JD036510. https://doi.org/10.1029/2022JD036510 
 
-__[94]__ Marcilly CM, Maffre P., Le Hir G. et al., 2022, Understanding the early Paleozoic carbon cycle balance and climate change from modelling, Earth and Planetary Science Letters, 594. https://doi.org/10.1016/j.epsl.2022.117717 
+__[103]__ Marcilly CM, Maffre P., Le Hir G. et al., 2022, Understanding the early Paleozoic carbon cycle balance and climate change from modelling, Earth and Planetary Science Letters, 594. https://doi.org/10.1016/j.epsl.2022.117717 
 
-__[94]__ Gurung K., Field KJ, Batterman SA. et al., 2022, Climate windows of opportunity for plant expansion during the Phanerozoic, Nature Commmunications, 13. https://doi.org/10.1038/s41467-022-32077-7
+__[102]__ Gurung K., Field KJ, Batterman SA. et al., 2022, Climate windows of opportunity for plant expansion during the Phanerozoic, Nature Commmunications, 13. https://doi.org/10.1038/s41467-022-32077-7
 
-__[94]__ *Pillot Q.*, __Donnadieu Y.__, Sarr AC, Ladant JB and Sucheras-Marx B., 2022, Evolution of Ocean Circulation in the North Atlantic Ocean During the Miocene: Impact of the Greenland Ice Sheet and the Eastern Tethys Seaway, Paleoceanography and Paleoclimatology, 37, e2022PA004415, https://doi.org/10.1029/2022PA004415
+__[101]__ *Pillot Q.*, __Donnadieu Y.__, Sarr AC, Ladant JB and Sucheras-Marx B., 2022, Evolution of Ocean Circulation in the North Atlantic Ocean During the Miocene: Impact of the Greenland Ice Sheet and the Eastern Tethys Seaway, Paleoceanography and Paleoclimatology, 37, e2022PA004415, https://doi.org/10.1029/2022PA004415
 
-__[94]__ Niezgodzki I., Knorr G., Lohmann G. et  al.,  Field KJ, Batterman SA. et al., 2022, Simulation of Arctic sea ice within the DeepMIP Eocene ensemble: Thresholds, seasonality and factors controlling sea ice development, Global and Planetary Change, 214. https://doi.org/10.1016/j.gloplacha.2022.103848
+__[100]__ Niezgodzki I., Knorr G., Lohmann G. et  al.,  Field KJ, Batterman SA. et al., 2022, Simulation of Arctic sea ice within the DeepMIP Eocene ensemble: Thresholds, seasonality and factors controlling sea ice development, Global and Planetary Change, 214. https://doi.org/10.1016/j.gloplacha.2022.103848
 
-__[95]__ Williams CJR, Lunt DJ et al., 2022, African Hydroclimate During the Early Eocene From the DeepMIP Simulations, Paleoceanography and Paleoclimatology, e2022PA004419, 37. https://doi.org/10.1016/10.1029/2022PA004419
+__[99]__ Williams CJR, Lunt DJ et al., 2022, African Hydroclimate During the Early Eocene From the DeepMIP Simulations, Paleoceanography and Paleoclimatology, e2022PA004419, 37. https://doi.org/10.1016/10.1029/2022PA004419
 
+__[98]__ +Sarr AC, __Donnadieu Y.__, Bolton C. et al., 2022, Neogene South Asian monsoon rainfall and wind histories diverged due to topographic effects, Nature Geoscience, 15. https://doi.org/10.1038/s41561-022-00919-0
+
+__[97]__ Maffre P., Goddéris Y., Pohl A., __Donnadieu Y.__, Carretier S. et G. Le Hir, 2022, THE COMPLEX RESPONSE OF CONTINENTAL SILICATE ROCK WEATHERING TO THE COLONIZATION OF THE CONTINENTS BY VASCULAR PLANTS IN THE DEVONIAN, AJS, 322, 461-492. https://doi.org/10.2475/03.2022.02
+
+__[96]__ Zhang YR., De Boer A., Lunt DJ et al., 2022, Early Eocene Ocean Meridional Overturning Circulation: The Roles of Atmospheric Forcing and Strait Geometry, Paleoceanography and Paleoclimatology, 37. https://doi.org/10.1029/2021PA004329
+
+__[95]__ *Toumoulin A., Tardif D.*, __Donnadieu Y.__, Licht A., Ladant JB, Kunzmann L. and G. Dupont-Nivet, 2022, Evolution of continental temperature seasonality from the Eocene greenhouse to the Oligocene icehouse -a model-data comparison, Climate of the Past, 18.  https://doi.org/10.5194/cp-18-341-2022
 
 __[94]__ Longman J., Mills B.J.W., __Donnadieu Y.__ and Goddéris Y., 2022, Assessing volcanic controls on Miocene climate change. Geophysical Research Letters, 49, e2021GL096519. https://doi.org/10.1029/2021GL096519
 
