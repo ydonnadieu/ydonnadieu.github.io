@@ -24,7 +24,7 @@ __[102]__ Gurung K., Field KJ, Batterman SA. et al., 2022, Climate windows of op
 
 __[101]__ *Pillot Q.*, __Donnadieu Y.__, Sarr AC, Ladant JB and Sucheras-Marx B., 2022, Evolution of Ocean Circulation in the North Atlantic Ocean During the Miocene: Impact of the Greenland Ice Sheet and the Eastern Tethys Seaway, Paleoceanography and Paleoclimatology, 37, e2022PA004415, https://doi.org/10.1029/2022PA004415
 
-__[100]__ Niezgodzki I., Knorr G., Lohmann G. et  al.,  Field KJ, Batterman SA. et al., 2022, Simulation of Arctic sea ice within the DeepMIP Eocene ensemble: Thresholds, seasonality and factors controlling sea ice development, Global and Planetary Change, 214. https://doi.org/10.1016/j.gloplacha.2022.103848
+__[100]__ Niezgodzki I., Knorr G., Lohmann G. et  al., 2022, Simulation of Arctic sea ice within the DeepMIP Eocene ensemble: Thresholds, seasonality and factors controlling sea ice development, Global and Planetary Change, 214. https://doi.org/10.1016/j.gloplacha.2022.103848
 
 __[99]__ Williams CJR, Lunt DJ et al., 2022, African Hydroclimate During the Early Eocene From the DeepMIP Simulations, Paleoceanography and Paleoclimatology, e2022PA004419, 37. https://doi.org/10.1016/10.1029/2022PA004419
 
