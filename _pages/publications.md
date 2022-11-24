@@ -12,6 +12,23 @@ nav: true
 
 ##### `2022`
 
+__[94]__ +Sarr AC, __Donnadieu Y.__, Laugie M., Ladant JB, Sucheras-Marx B. and F. Raisson, 2022, Ventilation Changes Drive Orbital-Scale Deoxygenation Trends in the Late Cretaceous Ocean, Geophysical Research Letters, 49, e2022GL099830. https://doi.org/10.1029/2022GL099830
+
+__[94]__ Martinot C., Bolton CT, Sarr AC, __Donnadieu Y.__, Garcia M., Gray E. and K. Tachikawa, 2022, Drivers of Late Miocene Tropical Sea Surface Cooling: A New Perspective From the Equatorial Indian Ocean, Paleoceanography and Paleoclimatology, 37, e2021PA004407, https://doi.org/10.1029/2021PA004407
+
+__[94]__ Zhang ZJ, Zhang ZS, et al., 2022, Impact of Mountains in Southern China on the Eocene Climates of East Asia, J. of Geophys. Res-Atmospheres, e2022JD036510. https://doi.org/10.1029/2022JD036510 
+
+__[94]__ Marcilly CM, Maffre P., Le Hir G. et al., 2022, Understanding the early Paleozoic carbon cycle balance and climate change from modelling, Earth and Planetary Science Letters, 594. https://doi.org/10.1016/j.epsl.2022.117717 
+
+__[94]__ Gurung K., Field KJ, Batterman SA. et al., 2022, Climate windows of opportunity for plant expansion during the Phanerozoic, Nature Commmunications, 13. https://doi.org/10.1038/s41467-022-32077-7
+
+__[94]__ *Pillot Q.*, __Donnadieu Y.__, Sarr AC, Ladant JB and Sucheras-Marx B., 2022, Evolution of Ocean Circulation in the North Atlantic Ocean During the Miocene: Impact of the Greenland Ice Sheet and the Eastern Tethys Seaway, Paleoceanography and Paleoclimatology, 37, e2022PA004415, https://doi.org/10.1029/2022PA004415
+
+__[94]__ Niezgodzki I., Knorr G., Lohmann G. et  al.,  Field KJ, Batterman SA. et al., 2022, Simulation of Arctic sea ice within the DeepMIP Eocene ensemble: Thresholds, seasonality and factors controlling sea ice development, Global and Planetary Change, 214. https://doi.org/10.1016/j.gloplacha.2022.103848
+
+__[95]__ Williams CJR, Lunt DJ et al., 2022, African Hydroclimate During the Early Eocene From the DeepMIP Simulations, Paleoceanography and Paleoclimatology, e2022PA004419, 37. https://doi.org/10.1016/10.1029/2022PA004419
+
+
 __[94]__ Longman J., Mills B.J.W., __Donnadieu Y.__ and Goddéris Y., 2022, Assessing volcanic controls on Miocene climate change. Geophysical Research Letters, 49, e2021GL096519. https://doi.org/10.1029/2021GL096519
 
 __[93]__ Beaufort L., Bolton C.T., Sarr AC., Suchéras-Marx B., Rosenthal Y., __Donnadieu Y.__, Barbarin N., Bova S., Cornuault P., Gally Y., Gray E., Mazur JC. and M. Tetard, 2022, Cyclic evolution of phytoplankton forced by changes in tropical seasonality. Nature 601, 79–84. https://doi.org/10.1038/s41586-021-04195-7
