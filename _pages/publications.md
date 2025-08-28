@@ -10,6 +10,23 @@ nav: true
 
 <p>&nbsp;</p>
 
+##### `2025`
+
+##### `2024`
+
+##### `2023`
+
+__[111]__ +Tardif D., +Sarr AC, et al., The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, 243, Earth-Science Reviews. https://doi.org/10.1016/j.earscirev.2023.104464
+
+__[110]__ Cramwinckel MJ, Burls NJ et al., Global and zonal‐mean hydrological response to early Eocene warmth, Paleoceanography and Paleoclimatology, 38, e2022PA004542.  https://doi.org/10.1029/2022PA004542 
+
+__[109]__ Goddéris Y., _Donnadieu Y._ and B. Mills, What models tell us about the evolution of carbon sources and sinks over the Phanerozoic, Annual Review of Earth and Planetary Sciences, 51, 471-492. https://doi.org/10.1146/annurev-earth-032320-092701 
+
+__[108]__ *Pillot Q.*, Sucheras B., Sarr AC, Bolton C and _Y. Donnadieu_, A global reassessment of the spatial and temporal expression of the late miocene biogenic bloom, Paleoceanography and Paleoclimatology, 38, e2022PA004564.  https://doi.org/10.1029/2022PA004564
+
+__[107]__ Goudsmit‐Harzevoort B., Lansu A. et al., The relationship between the global mean deep‐sea and surface temperature during the early Eocene, Paleoceanography and Paleoclimatology, 38, e2022PA004532.  https://doi.org/10.1029/2022PA004532
+
+
 ##### `2022`
 
 __[106]__ +Sarr AC, __Donnadieu Y.__, Laugie M., Ladant JB, Sucheras-Marx B. and F. Raisson, 2022, Ventilation Changes Drive Orbital-Scale Deoxygenation Trends in the Late Cretaceous Ocean, Geophysical Research Letters, 49, e2022GL099830. https://doi.org/10.1029/2022GL099830
