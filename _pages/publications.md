@@ -14,21 +14,21 @@ nav: true
 
 __[120]__ Zhen Xu, Jianxin Yu, et al., Early Triassic super-greenhouse climate driven by vegetation collapse,  Nat Commun 16, 5400. https://doi.org/10.1038/s41467-025-60396-y
 
-__[119]__ *Pineau E.*, _Donnadieu Y._, Maffre P., Lique C., Huck T., Gramoullé A. and J‐B. Ladant, A model based study of the emergence of North Atlantic deep water during the Cenozoic: A tale of geological and climatic forcings, Paleoceanography and Paleoclimatology, 40(5), e2024PA005020.  https://doi.org/10.1029/2024PA005020
+__[119]__ *Pineau E.*, __Donnadieu Y.__, Maffre P., Lique C., Huck T., Gramoullé A. and J‐B. Ladant, A model based study of the emergence of North Atlantic deep water during the Cenozoic: A tale of geological and climatic forcings, Paleoceanography and Paleoclimatology, 40(5), e2024PA005020.  https://doi.org/10.1029/2024PA005020
 
 __[118]__ TJ Naik, AM de Boer, HK Coxall, et al., Ocean Meridional Overturning Circulation during the early and middle Miocene, Paleoceanography and Paleoclimatology 40 (4), e2024PA005055. https://doi.org/10.1029/2024PA005055
 
-__[117]__ Merdith A., Gernon TM, Maffre P., _Donnadieu Y._, et al., Phanerozoic icehouse climates as the result of multiple solid-Earth cooling mechanisms, Science Advances 11 (7), eadm9798. DOI: 10.1126/sciadv.adm9798 
+__[117]__ Merdith A., Gernon TM, Maffre P., __Donnadieu Y.__, et al., Phanerozoic icehouse climates as the result of multiple solid-Earth cooling mechanisms, Science Advances 11 (7), eadm9798. DOI: 10.1126/sciadv.adm9798 
 
-__[116]__ *Pillot Q.*, +Sarr AC, _Donnadieu Y._, Gramoullé A. and B. Suchéras‐Marx, Impact of dust and temperature on primary productivity in Late Miocene oceans, Paleoceanography and Paleoclimatology 40 (1), e2023PA004838.  https://doi.org/10.1029/2023PA004838
+__[116]__ *Pillot Q.*, +Sarr AC, __Donnadieu Y.__, Gramoullé A. and B. Suchéras‐Marx, Impact of dust and temperature on primary productivity in Late Miocene oceans, Paleoceanography and Paleoclimatology 40 (1), e2023PA004838.  https://doi.org/10.1029/2023PA004838
 
 ##### `2024`
 
 __[115]__ Steinig S. et al., DeepMIP-Eocene-p1: multi-model dataset and interactive web application for Eocene climate research, 11 (970), Scientific Data. https://doi.org/10.1038/s41597-024-03773-4 
 
-__[114]__ Zheng D., Merdith A., Goddéris Y., _Donnadieu Y._, Gurung K. and B. Mills, Using deep learning to integrate paleoclimate and global biogeochemistry over the Phanerozoic Eon, Geoscientific Model Development, 17 (13), 5413-5429. https://doi.org/10.5194/gmd-17-5413-2024  
+__[114]__ Zheng D., Merdith A., Goddéris Y., __Donnadieu Y.__, Gurung K. and B. Mills, Using deep learning to integrate paleoclimate and global biogeochemistry over the Phanerozoic Eon, Geoscientific Model Development, 17 (13), 5413-5429. https://doi.org/10.5194/gmd-17-5413-2024  
 
-__[113]__ Ladant JB, Millot‐Weil J., de Lavergne C., Green M., Nguyen S. and _Y. Donnadieu_, The role of tidal mixing in shaping Early Eocene deep ocean circulation and oxygenation, Paleoceanography and Paleoclimatology, 39, e2023PA004822.  https://doi.org/10.1029/2023PA004822
+__[113]__ Ladant JB, Millot‐Weil J., de Lavergne C., Green M., Nguyen S. and __Y. Donnadieu__, The role of tidal mixing in shaping Early Eocene deep ocean circulation and oxygenation, Paleoceanography and Paleoclimatology, 39, e2023PA004822.  https://doi.org/10.1029/2023PA004822
 
 __[112]__ Acosta P., Burls NP, et al., A model‐data comparison of the hydrological response to Miocene warmth: Leveraging the MioMIP1 opportunistic multi‐model ensemble, Paleoceanography and Paleoclimatology, 39, e2023PA004726.  https://doi.org/10.1029/2023PA004726
 
@@ -38,9 +38,9 @@ __[111]__ +Tardif D., +Sarr AC, et al., The role of paleogeography in Asian mons
 
 __[110]__ Cramwinckel MJ, Burls NJ et al., Global and zonal‐mean hydrological response to early Eocene warmth, Paleoceanography and Paleoclimatology, 38, e2022PA004542.  https://doi.org/10.1029/2022PA004542 
 
-__[109]__ Goddéris Y., _Donnadieu Y._ and B. Mills, What models tell us about the evolution of carbon sources and sinks over the Phanerozoic, Annual Review of Earth and Planetary Sciences, 51, 471-492. https://doi.org/10.1146/annurev-earth-032320-092701 
+__[109]__ Goddéris Y., __Donnadieu Y.__ and B. Mills, What models tell us about the evolution of carbon sources and sinks over the Phanerozoic, Annual Review of Earth and Planetary Sciences, 51, 471-492. https://doi.org/10.1146/annurev-earth-032320-092701 
 
-__[108]__ *Pillot Q.*, Sucheras B., Sarr AC, Bolton C and _Y. Donnadieu_, A global reassessment of the spatial and temporal expression of the late miocene biogenic bloom, Paleoceanography and Paleoclimatology, 38, e2022PA004564.  https://doi.org/10.1029/2022PA004564
+__[108]__ *Pillot Q.*, Sucheras B., Sarr AC, Bolton C and __Y. Donnadieu__, A global reassessment of the spatial and temporal expression of the late miocene biogenic bloom, Paleoceanography and Paleoclimatology, 38, e2022PA004564.  https://doi.org/10.1029/2022PA004564
 
 __[107]__ Goudsmit‐Harzevoort B., Lansu A. et al., The relationship between the global mean deep‐sea and surface temperature during the early Eocene, Paleoceanography and Paleoclimatology, 38, e2022PA004532.  https://doi.org/10.1029/2022PA004532
 
